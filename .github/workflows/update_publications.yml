@@ -1,0 +1,46 @@
+name: update_publications
+#Updates the publication list using the publication python algorithm
+
+on:
+  push:
+    branches: 
+      - master #Updates on alteration to source
+  schedule:
+    - cron: '30 23 1 * *' #Updates automatically on the 1st of every month
+    
+jobs:
+  update_publications:
+    name: Update the publication list
+    runs-on: ubuntu-latest #Specifies the type of runner (might use windows-latest)
+    steps:
+      - name: Checkout Repo Contents
+        uses: actions/checkout@v2
+        
+      - name: Set up python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9.0'
+        
+      - name: Install python packages
+        uses: |
+              python -m pip install --upgrade pip
+              pip install -r pub_update_requirements.txt
+              
+      - name: Run SerpApi script
+        run: python populate_publications.py
+        
+      - name: Run Scholar scraper for additional info
+        run: python format-publications.py
+    
+      - name: Commit files for saving
+        run:  |
+              git config --local user.email "action@github.com"
+              git config --local user.name "GitHub Action"
+              git add -A
+              git commit -m "Publication update from action ${{ GITHUB_SHA }}" -a
+              
+      - name: Push to master
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master #Designate branch to push to
