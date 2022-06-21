@@ -1,4 +1,4 @@
-name: update_publications
+name: update-publications
 #Updates the publication list using the publication python algorithm
 
 on:
@@ -9,12 +9,12 @@ on:
     - cron: '30 23 1 * *' #Updates automatically on the 1st of every month
     
 jobs:
-  update_publications:
+  update-publications:
     name: Update the publication list
     runs-on: ubuntu-latest #Specifies the type of runner (might use windows-latest)
     steps:
       - name: Checkout Repo Contents
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.4.2
         
       - name: Set up python
         uses: actions/setup-python@v2
@@ -30,7 +30,7 @@ jobs:
         run: python populate_publications.py
         
       - name: Run Scholar scraper for additional info
-        run: python format-publications.py
+        run: python format_publications.py
     
       - name: Commit files for saving
         run:  |
