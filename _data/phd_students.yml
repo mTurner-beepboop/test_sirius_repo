@@ -1,0 +1,103 @@
+- name: Florian Mathis, M.Sc.
+  photo: mathis.jpg
+  info: PhD student, started Oct 2019
+  supervisors: Dr. Mohamed Khamis, Dr. Kami Vaniea
+  description: The objective of Florian's PhD is to research the suitability of Virtual Reality (VR) as a test bed for usability and security evaluations. 
+  keywords: HCI, Virtual Reality, Usable Security
+  email: florian.mathis@glasgow.ac.uk
+  personal_website: http://www.fmathis.com/ 
+  number_educ: 0
+  
+
+- name: Yasmeen Abdrabou, M.Sc.
+  photo: abdrabou.jpg
+  info: PhD student, started Oct 2019
+  description: My research combines HCI and usable security. In particular, I focus on the use of eye gaze to enhance security mechanisms, including and not limited to gaze behavior in security-related situations and personal identification. 
+  keywords: HCI, Eye Tracking, Usable Security
+  email: yasmeen.essam@unibw.de
+  personal_website: https://www.yasmeenabdrabou.com/
+  number_educ: 0
+  education1: M.Sc. from German University in Cairo (GUC)
+
+- name: Norah Alotaibi, M.Sc.
+  photo: bio-photo.png
+  info: PhD Student, started Jan 2020
+  email: n.alotaibi.3@research.gla.ac.uk
+  keywords: Thermal Imaging, Machine Learning, Security
+  number_educ: 0
+  education1: M.Sc. from University of Glasgow
+
+- name: Habiba Farzand, M.Sc.
+  photo: farzand.jpg
+  info: PhD Student, started Jan 2021
+  email: 2538185F@student.gla.ac.uk
+  keywords: Shoulder Surfing, Usable Security, HCI
+  description: My research is inspired by the convergence of Security & Privacy and Humans. I specifically focus on understanding and mitigating shoulder surfing – a privacy invasion found all around us.
+  number_educ: 0
+  education1: M.Sc. from University of York
+  education2: B.Sc.
+  personal_website: https://www.gla.ac.uk/pgrs/habibafarzand/
+
+- name: Robin Bretin 
+  photo: bretin.jpg
+  info: PhD Student in the SOCIAL CDT programme, started Oct 2020
+  keywords: Human-Drone Interaction, Social Drones, Human-Robot Interaction
+  description: "Robin's doctoral project focuses on the study of human behaviour around Social drones in immersive virtual reality (VR). He aims to address three questions Humans - How do they behave around drones ? Drones - How to make them social ? And Virtual Reality - What are the limits and capabilities of using VR as an approach for researching Human-Drone Interaction?"
+  email: 2605336B@student.gla.ac.uk
+  number_educ: 0
+
+- name: Melvin Abraham.
+  photo: abraham.png
+  info: PhD student, started July 2021
+  description: Melvin's research is based on identifying and communicating security & privacy risks to a user within mixed reality. Looking specifically at how mixed reality can be leveraged, to communicate effectively when a users data is being collected or if a security risk is present.
+  keywords: Privacy, Virtual Reality, Usable Security
+  email: m.abraham.1@research.gla.ac.uk
+  personal_website: 
+  number_educ: 0
+  
+
+- name: Joseph O'Hagan
+  photo: bio-photo.png
+  keywords: Virtual Reality, Augmented Reality, Mixed Reality, 
+  info: PhD student (secondary supervisor), started Oct 2018.
+  email: j.ohagan.1@research.gla.ac.uk
+  number_educ: 0
+  
+- name: Cristina Fiani
+  photo: fiani.jpeg
+  info: PhD Student in the SOCIAL CDT programme, started Oct 2021
+  keywords: Virtual Reality, HCI, children and adolescents' privacy
+  description: "Cristina's research focuses on children and adolescents' privacy and emotional safety with virtual reality (VR). One of the aims is to create a framework for parents to protect them and moderate the social VR experience without neglecting children and adolescents' expression and self-development."
+  email: c.fiani.1@research.gla.ac.uk
+  number_educ: 0
+  personal_website: https://www.linkedin.com/in/cristina-fiani/
+ 
+  
+- name: Noora AlSakar
+  photo: bio-photo.png
+  info: PhD Student, started Oct 2021
+  keywords: Privacy, Human centered security, Augmented reality.
+  description: "Recent advances in mobile devices led them to seamlessly support eye tracking. This brings a lot of advantages to interaction. However, eye movements also reveal sensitive attributes about the user. My research aims to investigate the privacy risks of eye tracking on handheld mobile devices and design protective measures using AR based solutions."
+  email: n.alsakar.1@research.gla.ac.uk
+  number_educ: 0
+  personal_website: https://sa.linkedin.com/in/noora-alsaqer-1a85b8bb
+  
+- name: Omar Namnakani
+  photo: omar.png
+  info: PhD Student, started Jan 2022
+  keywords: Gaze Interaction, Mobile Devices, Eye Tracking, User Interfaces, Gaze Input, Usability
+  description: My research focuses on the usability of the current gaze interaction techniques for the mobile contexts and scenarios. Particularly, I’m interested in exploring the concept of UI design to enhance eye gaze interaction on mobile devices.
+  email: o.namnakani.1@research.gla.ac.uk
+  number_educ: 0
+  personal_website: 
+ 
+
+- name: "This could be you !"
+  photo: you-bio-photo.jpg
+  info: See <a href="/join-our-lab">Join Our Lab</a> for more info.
+  email: mohamed.khamis@glasgow
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
