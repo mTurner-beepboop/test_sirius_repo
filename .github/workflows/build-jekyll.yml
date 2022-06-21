@@ -1,4 +1,4 @@
-name: Upadte Publications, then Build and Deploy to Github Pages
+name: Update Publications, then Build and Deploy to Github Pages
 
 on:
   push:
