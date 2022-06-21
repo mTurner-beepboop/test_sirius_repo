@@ -3,6 +3,7 @@ import yaml
 import requests
 from bs4 import BeautifulSoup
 
+
 with open('temp.json', 'r') as file:
     data = json.load(file)
 
