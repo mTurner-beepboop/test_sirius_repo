@@ -1,29 +1,28 @@
-- authors: Kieran Watson, Robin Bretin, Mohamed Khamis, Florian Mathis
+- authors: Wen-Jie Tseng, Elise Bonnail, Mark Mcgill, Mohamed Khamis, Eric Lecolinet,
+    Samuel Huron, Jan Gugenheimer
   award:
-  description: "A large body of work investigated touch, mid-air, and gaze-based user\
-    \ authentication. However, little is known about authentication using other human\
-    \ body parts. In this paper, we investigate the idea of foot-based user authentication\
-    \ for public displays (eg, ticket machines). We conducted a user study (N= 13)\
-    \ on a virtual prototype, FeetAuth, on which participants use their dominant foot\
-    \ to rotate through PIN elements (0\u20139) that are augmented along a circular\
-    \ layout using augmented reality (AR) technology. We investigate FeetAuth in combination\
-    \ with three different layouts: Floor-based, Spatial, and Egocentric, finding\
-    \ that Floor-based FeetAuth resulted in the highest usability with 4-digit PIN\
-    \ entry as fast as M= 6.71 (SD= 0.67). Participants perceived foot-based authentication\
-    \ as socially acceptable and highlighted its accessibility. Our investigation\
-    \ of foot-based authentication paves the way for further studies on the\_\u2026"
+  description: "\u201CVirtual-Physical Perceptual Manipulations\u201D(VPPMs) such\
+    \ as redirected walking and haptics expand the user\u2019s capacity to interact\
+    \ with Virtual Reality (VR) beyond what would ordinarily physically be possible.\
+    \ VPPMs leverage knowledge of the limits of human perception to effect changes\
+    \ in the user\u2019s physical movements, becoming able to (perceptibly and imperceptibly)\
+    \ nudge their physical actions to enhance interactivity in VR. We explore the\
+    \ risks posed by the malicious use of VPPMs. First, we define, conceptualize and\
+    \ demonstrate the existence of VPPMs. Next, using speculative design workshops,\
+    \ we explore and characterize the threats/risks posed, proposing mitigations and\
+    \ preventative recommendations against the malicious use of VPPMs. Finally, we\
+    \ implement two sample applications to demonstrate how existing VPPMs could be\
+    \ trivially subverted to create the potential for physical harm. This paper\_\u2026"
   highlight: 0
   image:
   link:
     DOI:
     bibtex:
-    display: CHI Conference on Human Factors in Computing Systems Extended Abstracts,
-      pages 1-9
+    display: CHI Conference on Human Factors in Computing Systems, pages 1-15
     talk:
-    url: https://scholar.google.com/scholar?oi=bibs&cluster=16758190347391917457&btnI=1&hl=en&oe=ASCII
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=10333372083991281183&btnI=1&hl=en&oe=ASCII
     video:
   news2:
-  title: 'The Feet in Human-Centred Security: Investigating Foot-Based User Authentication
-    for Public Displays'
+  title: The Dark Side of Perceptual Manipulations in Virtual Reality
   type:
   year: 2022
