@@ -122,7 +122,7 @@ permalink: /publications/
 
 ## Newer Publications
 
-The publications below are in need of manual review, hence may not be fully accurate/up-to-date. Automatically obtained on {{ site.data.last_updated.date }}
+<b>The publications below are in need of manual review, hence may not be fully accurate/up-to-date. Automatically obtained on {{ site.data.last_updated.date }}</b>
 
 {% for publi in site.data.crawled_publist %}
 
