@@ -1,6 +1,8 @@
 import requests #Requires pip install requests
 import json
 
+#This file deals with the SerpAPI request and saves those to a temp file
+
 URL = "https://serpapi.com/search.json?engine=google_scholar_author"
 
 scholar_id = "0OupgU0AAAAJ" #MKhamis Author ID

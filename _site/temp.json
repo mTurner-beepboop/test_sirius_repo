@@ -1,5 +1,17 @@
 [
   {
+    "title": "Exploring Attitudes Towards Increasing User Awareness of Reality From Within Virtual Reality",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:ye4kPcJQO24C",
+    "citation_id": "0OupgU0AAAAJ:ye4kPcJQO24C",
+    "authors": "J O'Hagan, M Khamis, M McGill, JR Williamson",
+    "publication": "ACM International Conference on Interactive Media Experiences, 151-160, 2022",
+    "cited_by": {
+      "value": null,
+      "link": "https://scholar.google.com"
+    },
+    "year": "2022"
+  },
+  {
     "title": "CueVR: Studying the Usability of Cue-based Authentication for Virtual Reality",
     "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:dQ2og3OwTAUC",
     "citation_id": "0OupgU0AAAAJ:dQ2og3OwTAUC",
@@ -60,11 +72,46 @@
     "year": "2022"
   },
   {
+    "title": "Special issue on pervasive displays",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:q3oQSFYPqjQC",
+    "citation_id": "0OupgU0AAAAJ:q3oQSFYPqjQC",
+    "authors": "JR Cauchard, N Davies, V Gentile, S Sorce, M Khamis",
+    "publication": "Personal and Ubiquitous Computing 26 (3), 587-591, 2022",
+    "cited_by": {
+      "value": null,
+      "link": "https://scholar.google.com"
+    },
+    "year": "2022"
+  },
+  {
     "title": "User-centred multimodal authentication: securing handheld mobile devices using gaze and touch input",
     "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:N5tVd3kTz84C",
     "citation_id": "0OupgU0AAAAJ:N5tVd3kTz84C",
     "authors": "M Khamis, K Marky, A Bulling, F Alt",
     "publication": "Behaviour & Information Technology, 1-23, 2022",
+    "cited_by": {
+      "value": null,
+      "link": "https://scholar.google.com"
+    },
+    "year": "2022"
+  },
+  {
+    "title": "Investigating State-of-the-Art Practices for Fostering Subjective Trust in Online Voting through Interviews",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:uLbwQdceFCQC",
+    "citation_id": "0OupgU0AAAAJ:uLbwQdceFCQC",
+    "authors": "K Marky, P Gerber, S G\u00fcnther, M Khamis, M Fries, M M\u00fchlh\u00e4user",
+    "cited_by": {
+      "value": null,
+      "link": "https://scholar.google.com"
+    },
+    "year": "2022"
+  },
+  {
+    "title": "\u201cYou offer privacy like you offer tea\u201d: Investigating Mechanisms for Improving Guest Privacy in IoT-Equipped Households",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:JQOojiI6XY0C",
+    "citation_id": "0OupgU0AAAAJ:JQOojiI6XY0C",
+    "authors": "K Marky, N Gerber, MG Pelzer, M Khamis, M M\u00fchlh\u00e4user",
+    "publication": "Proceedings on Privacy Enhancing Technologies 1, 21, 2022",
     "cited_by": {
       "value": null,
       "link": "https://scholar.google.com"
@@ -166,9 +213,9 @@
     "publication": "International Journal of Human\u2013Computer Interaction 38 (5), 468-490, 2022",
     "cited_by": {
       "value": 6,
-      "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13006675561613993781",
-      "serpapi_link": "https://serpapi.com/search.json?cites=13006675561613993781&engine=google_scholar&hl=en",
-      "cites_id": "13006675561613993781"
+      "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4314701491619528676",
+      "serpapi_link": "https://serpapi.com/search.json?cites=4314701491619528676&engine=google_scholar&hl=en",
+      "cites_id": "4314701491619528676"
     },
     "year": "2022"
   },
@@ -206,17 +253,6 @@
     "citation_id": "0OupgU0AAAAJ:Mojj43d5GZwC",
     "authors": "Y Abdrabou, R Rivu, T Ammar, J Liebers, A Saad, C Liebers, ...",
     "publication": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and \u2026, 2022",
-    "cited_by": {
-      "value": null,
-      "link": "https://scholar.google.com"
-    },
-    "year": "2022"
-  },
-  {
-    "title": "Exploring Attitudes Towards Increasing User Awareness of Reality From Within Virtual Reality",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:ye4kPcJQO24C",
-    "citation_id": "0OupgU0AAAAJ:ye4kPcJQO24C",
-    "authors": "J O'Hagan, M Khamis, M McGill, JR Williamson",
     "cited_by": {
       "value": null,
       "link": "https://scholar.google.com"
@@ -386,9 +422,9 @@
     "publication": "Academic Mindtrek 2021, 154-164, 2021",
     "cited_by": {
       "value": 4,
-      "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2415785870232033753,16221986897323309136",
-      "serpapi_link": "https://serpapi.com/search.json?cites=2415785870232033753%2C16221986897323309136&engine=google_scholar&hl=en",
-      "cites_id": "2415785870232033753,16221986897323309136"
+      "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2415785870232033753",
+      "serpapi_link": "https://serpapi.com/search.json?cites=2415785870232033753&engine=google_scholar&hl=en",
+      "cites_id": "2415785870232033753"
     },
     "year": "2021"
   },
@@ -407,18 +443,6 @@
     "year": "2021"
   },
   {
-    "title": "Special issue on pervasive displays",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:q3oQSFYPqjQC",
-    "citation_id": "0OupgU0AAAAJ:q3oQSFYPqjQC",
-    "authors": "JR Cauchard, N Davies, V Gentile, S Sorce, M Khamis",
-    "publication": "Personal and Ubiquitous Computing, 1-5, 2021",
-    "cited_by": {
-      "value": null,
-      "link": "https://scholar.google.com"
-    },
-    "year": "2021"
-  },
-  {
     "title": "Using Personal Data to Support Authentication: User Attitudes and Suitability",
     "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:bnK-pcrLprsC",
     "citation_id": "0OupgU0AAAAJ:bnK-pcrLprsC",
@@ -429,20 +453,6 @@
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17391863757320247511",
       "serpapi_link": "https://serpapi.com/search.json?cites=17391863757320247511&engine=google_scholar&hl=en",
       "cites_id": "17391863757320247511"
-    },
-    "year": "2021"
-  },
-  {
-    "title": "Interorganizational cooperation in supply chain cybersecurity: a cross-industry study of the effectiveness of the UK implementation of the NIS Directive",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:D_sINldO8mEC",
-    "citation_id": "0OupgU0AAAAJ:D_sINldO8mEC",
-    "authors": "T Wallis, C Johnston, M Khamis",
-    "publication": "Information and Security: An International Journal 48, 2021",
-    "cited_by": {
-      "value": 3,
-      "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11868253231093227060",
-      "serpapi_link": "https://serpapi.com/search.json?cites=11868253231093227060&engine=google_scholar&hl=en",
-      "cites_id": "11868253231093227060"
     },
     "year": "2021"
   },
@@ -467,7 +477,7 @@
     "authors": "JR Cauchard, M Khamis, J Garcia, M Kljun, AM Brock",
     "publication": "Interactions 28 (2), 76-81, 2021",
     "cited_by": {
-      "value": 9,
+      "value": 10,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16439996861734054478",
       "serpapi_link": "https://serpapi.com/search.json?cites=16439996861734054478&engine=google_scholar&hl=en",
       "cites_id": "16439996861734054478"
@@ -500,13 +510,27 @@
     "year": "2021"
   },
   {
+    "title": "Interorganizational cooperation in supply chain cybersecurity: A cross-industry study of the effectiveness of the UK implementation of the NIS Directive",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:D_sINldO8mEC",
+    "citation_id": "0OupgU0AAAAJ:D_sINldO8mEC",
+    "authors": "T Wallis, C Johnston, M Khamis",
+    "publication": "Information and Security: An International Journal 48, 36-68, 2021",
+    "cited_by": {
+      "value": 4,
+      "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11868253231093227060",
+      "serpapi_link": "https://serpapi.com/search.json?cites=11868253231093227060&engine=google_scholar&hl=en",
+      "cites_id": "11868253231093227060"
+    },
+    "year": "2021"
+  },
+  {
     "title": "Remote XR Studies: The Golden Future of HCI Research?",
     "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:5Ul4iDaHHb8C",
     "citation_id": "0OupgU0AAAAJ:5Ul4iDaHHb8C",
     "authors": "F Mathis, X Zhang, J O\u2019Hagan, D Medeiros, P Saeghe, M McGill, ...",
     "publication": "Proceedings of the CHI 2021 Workshop on XR Remote Research. http://www. mat \u2026, 2021",
     "cited_by": {
-      "value": 15,
+      "value": 16,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14224956648929921186",
       "serpapi_link": "https://serpapi.com/search.json?cites=14224956648929921186&engine=google_scholar&hl=en",
       "cites_id": "14224956648929921186"
@@ -520,7 +544,7 @@
     "authors": "F Mathis, K Vaniea, M Khamis",
     "publication": "Proceedings of the 39th Annual ACM Conference on Human Factors in Computing \u2026, 2021",
     "cited_by": {
-      "value": 21,
+      "value": 20,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6917954596426657402",
       "serpapi_link": "https://serpapi.com/search.json?cites=6917954596426657402&engine=google_scholar&hl=en",
       "cites_id": "6917954596426657402"
@@ -560,8 +584,10 @@
     "authors": "M Hassib, H Abdelmoteleb, M Khamis",
     "publication": "19th International Conference on Mobile and Ubiquitous Multimedia, 186-190, 2020",
     "cited_by": {
-      "value": null,
-      "link": "https://scholar.google.com"
+      "value": 1,
+      "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5867652938521500262",
+      "serpapi_link": "https://serpapi.com/search.json?cites=5867652938521500262&engine=google_scholar&hl=en",
+      "cites_id": "5867652938521500262"
     },
     "year": "2020"
   },
@@ -572,7 +598,7 @@
     "authors": "AL Simeone, M Khamis, A Esteves, F Daiber, M Kljun, K \u010copi\u010d Pucihar, ...",
     "publication": "Companion Proceedings of the 2020 Conference on Interactive Surfaces and \u2026, 2020",
     "cited_by": {
-      "value": 6,
+      "value": 3,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12436313517192553729",
       "serpapi_link": "https://serpapi.com/search.json?cites=12436313517192553729&engine=google_scholar&hl=en",
       "cites_id": "12436313517192553729"
@@ -586,7 +612,7 @@
     "authors": "M McGill, F Mathis, M Khamis, J Williamson",
     "publication": "ACM International Conference on Interactive Media Experiences, 34-44, 2020",
     "cited_by": {
-      "value": 5,
+      "value": 6,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9009913328594468376",
       "serpapi_link": "https://serpapi.com/search.json?cites=9009913328594468376&engine=google_scholar&hl=en",
       "cites_id": "9009913328594468376"
@@ -612,7 +638,7 @@
     "authors": "J O\u2019Hagan, JR Williamson, M Khamis",
     "publication": "Pervasive Displays, 2020",
     "cited_by": {
-      "value": 11,
+      "value": 13,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7788737863859996304",
       "serpapi_link": "https://serpapi.com/search.json?cites=7788737863859996304&engine=google_scholar&hl=en",
       "cites_id": "7788737863859996304"
@@ -640,7 +666,7 @@
     "authors": "F Mathis, J Williamson, K Vaniea, M Khamis",
     "publication": "Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing \u2026, 2020",
     "cited_by": {
-      "value": 26,
+      "value": 25,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1377914585532891238",
       "serpapi_link": "https://serpapi.com/search.json?cites=1377914585532891238&engine=google_scholar&hl=en",
       "cites_id": "1377914585532891238"
@@ -681,7 +707,7 @@
     "authors": "M FERNANDEZ, F MATHIS, M KHAMIS",
     "publication": "11th Nordic Conference on Human-Computer Interaction (NordiCHI 2020), 2020",
     "cited_by": {
-      "value": 5,
+      "value": 4,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7457447623686471293",
       "serpapi_link": "https://serpapi.com/search.json?cites=7457447623686471293&engine=google_scholar&hl=en",
       "cites_id": "7457447623686471293"
@@ -709,7 +735,7 @@
     "authors": "Y Abdrabou, Y Abdelrahman, A Ayman, A Elmougy, M Khamis",
     "publication": "International Conference on Advanced Visual Interfaces (AVI 2020), 2020",
     "cited_by": {
-      "value": 4,
+      "value": 5,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13243495135895819937",
       "serpapi_link": "https://serpapi.com/search.json?cites=13243495135895819937&engine=google_scholar&hl=en",
       "cites_id": "13243495135895819937"
@@ -737,7 +763,7 @@
     "authors": "C Katsini, Y Abdrabou, GE Raptis, M Khamis, F Alt",
     "publication": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 2020",
     "cited_by": {
-      "value": 53,
+      "value": 55,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16201854380323423391",
       "serpapi_link": "https://serpapi.com/search.json?cites=16201854380323423391&engine=google_scholar&hl=en",
       "cites_id": "16201854380323423391"
@@ -751,7 +777,7 @@
     "authors": "V M\u00e4kel\u00e4, R Radiah, S Alsherif, M Khamis, C Xiao, L Borchert, A Schmidt, ...",
     "publication": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 2020",
     "cited_by": {
-      "value": 41,
+      "value": 40,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9394036605039975738",
       "serpapi_link": "https://serpapi.com/search.json?cites=9394036605039975738&engine=google_scholar&hl=en",
       "cites_id": "9394036605039975738"
@@ -891,7 +917,7 @@
     "authors": "P Elagroudy, M Khamis, F Mathis, D Irmscher, A Bulling, A Schmidt",
     "publication": "Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing \u2026, 2019",
     "cited_by": {
-      "value": 9,
+      "value": 10,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9812932570842398152",
       "serpapi_link": "https://serpapi.com/search.json?cites=9812932570842398152&engine=google_scholar&hl=en",
       "cites_id": "9812932570842398152"
@@ -919,7 +945,7 @@
     "authors": "C George, M Khamis, D Buschek, H Hussmann",
     "publication": "2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 277-285, 2019",
     "cited_by": {
-      "value": 37,
+      "value": 36,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6835144992514304251",
       "serpapi_link": "https://serpapi.com/search.json?cites=6835144992514304251&engine=google_scholar&hl=en",
       "cites_id": "6835144992514304251"
@@ -947,7 +973,7 @@
     "authors": "Y Abdrabou, M Khamis, RM Eisa, S Ismail, A Elmougy",
     "publication": "Proceedings of the 11th ACM Symposium on Eye Tracking Research \u2026, 2019",
     "cited_by": {
-      "value": 30,
+      "value": 29,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=504326966321891480",
       "serpapi_link": "https://serpapi.com/search.json?cites=504326966321891480&engine=google_scholar&hl=en",
       "cites_id": "504326966321891480"
@@ -1072,7 +1098,7 @@
     "authors": "M Khamis, L Trotter, V M\u00e4kel\u00e4, E von Zezschwitz, J Le, A Bulling, F Alt",
     "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous \u2026, 2018",
     "cited_by": {
-      "value": 32,
+      "value": 30,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5930928482603336305",
       "serpapi_link": "https://serpapi.com/search.json?cites=5930928482603336305&engine=google_scholar&hl=en",
       "cites_id": "5930928482603336305"
@@ -1183,7 +1209,7 @@
     "authors": "C Mai, M Khamis",
     "publication": "Proceedings of the 7th ACM International Symposium on Pervasive Displays, 2018",
     "cited_by": {
-      "value": 21,
+      "value": 22,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8497554652212510840",
       "serpapi_link": "https://serpapi.com/search.json?cites=8497554652212510840&engine=google_scholar&hl=en",
       "cites_id": "8497554652212510840"
@@ -1197,7 +1223,7 @@
     "authors": "M Saleh, M Khamis, C Sturm",
     "publication": "2018 CHI Conference Extended Abstracts on Human Factors in Computing Systems \u2026, 2018",
     "cited_by": {
-      "value": 3,
+      "value": 2,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=657710264556350001",
       "serpapi_link": "https://serpapi.com/search.json?cites=657710264556350001&engine=google_scholar&hl=en",
       "cites_id": "657710264556350001"
@@ -1211,7 +1237,7 @@
     "authors": "E Alabdulqader, S Lazem, M Khamis, S Dray",
     "publication": "2018 CHI Conference Extended Abstracts on Human Factors in Computing Systems \u2026, 2018",
     "cited_by": {
-      "value": 7,
+      "value": 8,
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13017323012704363600",
       "serpapi_link": "https://serpapi.com/search.json?cites=13017323012704363600&engine=google_scholar&hl=en",
       "cites_id": "13017323012704363600"
@@ -1313,34 +1339,6 @@
       "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18119540637001629672",
       "serpapi_link": "https://serpapi.com/search.json?cites=18119540637001629672&engine=google_scholar&hl=en",
       "cites_id": "18119540637001629672"
-    },
-    "year": "2017"
-  },
-  {
-    "title": "GazeTouchPIN: Protecting Sensitive Data on Mobile Devices using Secure Multimodal Authentication.",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:maZDTaKrznsC",
-    "citation_id": "0OupgU0AAAAJ:maZDTaKrznsC",
-    "authors": "M Khamis, M Hassib, E von Zezschwitz, A Bulling, F Alt",
-    "publication": "19th ACM International Conference on Multimodal Interaction (ICMI 2017), 2017",
-    "cited_by": {
-      "value": 67,
-      "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14317488732692532204",
-      "serpapi_link": "https://serpapi.com/search.json?cites=14317488732692532204&engine=google_scholar&hl=en",
-      "cites_id": "14317488732692532204"
-    },
-    "year": "2017"
-  },
-  {
-    "title": "EyeScout: Active Eye Tracking for Position and Movement Independent Gaze Interaction with Large Public Displays",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0OupgU0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=0OupgU0AAAAJ:k_IJM867U9cC",
-    "citation_id": "0OupgU0AAAAJ:k_IJM867U9cC",
-    "authors": "M Khamis, A Klimczak, M Reiss, F Alt, A Bulling",
-    "publication": "30th ACM User Interface Software and Technology Symposium (UIST 2017), 2017",
-    "cited_by": {
-      "value": 47,
-      "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8172255855757083348",
-      "serpapi_link": "https://serpapi.com/search.json?cites=8172255855757083348&engine=google_scholar&hl=en",
-      "cites_id": "8172255855757083348"
     },
     "year": "2017"
   }

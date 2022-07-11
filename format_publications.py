@@ -102,7 +102,7 @@ for d in data:
         if field_links != None:
             temp_dict['link']['url'] = "https://scholar.google.com" + str(field_links.get("href"))
     
-    temp_dict['title'] = str(title).strip(" .")
+    temp_dict['title'] = str(title).strip(" .'")
     temp_dict['highlight'] = 0 #default
     temp_dict['year'] = int(d['year'])
     
