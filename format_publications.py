@@ -38,11 +38,11 @@ for d in data:
     #Check if the title is already accounted for in the two lists
     flag = False
     for existing in existing_data:
-        if lower(d['title']).strip(" .'") == lower(existing['title']).strip(" .'"):
+        if d['title'].lower().strip(" .'") == existing['title'].lower().strip(" .'"):
             flag = True
     if not flag:
         for unreviewed in unreviewed_data:
-            if lower(d['title']).strip(" .'") == lower(unreviewed['title']).strip(" .'"):
+            if d['title'].lower().strip(" .'") == unreviewed['title'].lower().strip(" .'"):
                 flag = True
     print(d['title'] + ": " + str(flag)) #Prints each item and if it was found before
 
