@@ -1,1 +1,1907 @@
-[]
+- authors: Joseph O'Hagan, Mohamed Khamis, Mark McGill, Julie R Williamson
+  award:
+  description: "The occlusive nature of VR headsets introduces significant barriers\
+    \ to a user\u2019s awareness of their surrounding reality. While recent research\
+    \ has explored systems to facilitate a VR user\u2019s interactions with nearby\
+    \ people, objects, etc, we lack a fundamental understanding of user attitudes\
+    \ towards and expectations of these systems. We present the results of a card\
+    \ sorting study (N= 14) which investigated attitudes towards increasing a VR user\u2019\
+    s reality awareness (awareness of people, objects, audio, pets, and systems to\
+    \ manage and moderate personal usage) whilst in VR. Our results confirm VR headsets\
+    \ should be equipped with systems to increase a user\u2019s awareness of reality.\
+    \ However, opinions vary on how increased awareness should be achieved as our\
+    \ results also highlight differing expectations regarding: persistent vs temporary\
+    \ notification design, notification content and when, why and how awareness\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: ACM International Conference on Interactive Media Experiences, pages
+      151-160
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=8908652904804512907&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Exploring Attitudes Towards Increasing User Awareness of Reality From Within
+    Virtual Reality
+  type:
+  year: 2022
+- authors: Yomna Abdelrahman, Florian Mathis, Pascal Knierim, Axel Kettler, Florian
+    Alt, Mohamed Khamis
+  award:
+  description: "Existing virtual reality (VR) authentication schemes are either slow\
+    \ or prone to observation attacks. We propose CueVR, a cue-based authentication\
+    \ scheme that is resilient against observation attacks by design since vital cues\
+    \ are randomly generated and only visible to the user experiencing the VR environment.\
+    \ We investigate three different input modalities through an in-depth usability\
+    \ study (N= 20) and show that while authentication using CueVR is slower than\
+    \ the less secure baseline, it is faster than existing observation resilient cue-based\
+    \ schemes and VR schemes (4.151 s\u20137.025 s to enter a 4-digit PIN). Our results\
+    \ also indicate that using the controllers\u2019 trackpad significantly outperforms\
+    \ input using mid-air gestures. We conclude by discussing how visual cues can\
+    \ enhance the security of VR authentication while maintaining high usability.\
+    \ Furthermore, we show how existing real-world authentication\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 2022 International Conference on Advanced Visual Interfaces,
+      pages 1-9
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=15446291160142271748&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'CueVR: Studying the Usability of Cue-based Authentication for Virtual Reality'
+  type:
+  year: 2022
+- authors: Yasmeen Abdrabou, Sheikh Radiah Rivu, Tarek Ammar, Jonathan Liebers, Alia
+    Saad, Carina Liebers, Uwe Gruenefeld, Pascal Knierim, Mohamed Khamis, Ville Makela,
+    Stefan Schneegass, Florian Alt
+  award:
+  description: 'In this work, we explore attacker behavior during shoulder surfing.
+    As such behavior is often opportunistic and difficult to observe in real world
+    settings, we leverage the capabilities of virtual reality (VR). We recruited 24
+    participants and observed their behavior in two virtual waiting scenarios: at
+    a bus stop and in an open office space. In both scenarios, participants shoulder
+    surfed private screens displaying different types of content. From the results
+    we derive an understanding of factors influencing shoulder surfing behavior, reveal
+    common attack patterns, and sketch a behavioral shoulder surfing model. Our work
+    suggests directions for future research on shoulder surfing and can serve as a
+    basis for creating novel approaches to mitigate shoulder surfing.'
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 2022 International Conference on Advanced Visual Interfaces,
+      pages 1-9
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=9450570159902322197&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Understanding Shoulder Surfer Behavior and Attack Patterns Using Virtual
+    Reality
+  type:
+  year: 2022
+- authors: Mohamed Khamis, Habiba Farzand, Marija Mumm, Karola Marky
+  award:
+  description: "There are many contexts in which a person\u2019s face needs to be\
+    \ obfuscated for privacy, such as in social media posts. We present a user-centered\
+    \ analysis of the effectiveness of DeepFakes for obfuscation using synthetically\
+    \ generated faces, and compare it with state-of-the-art obfuscation methods: blurring,\
+    \ masking, pixelating, and replacement with avatars. For this, we conducted an\
+    \ online survey (N= 110) and found that DeepFake obfuscation is a viable alternative\
+    \ to state-of-the-art obfuscation methods; it is as effective as masking and avatar\
+    \ obfuscation in concealing the identities of individuals in photos. At the same\
+    \ time, DeepFakes blend well with surroundings and are as aesthetically pleasing\
+    \ as blurring and pixelating. We discuss how DeepFake obfuscation can enhance\
+    \ privacy protection without negatively impacting the photo\u2019s aesthetics."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 2022 International Conference on Advanced Visual Interfaces,
+      pages 1-5
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=4878248112816360079&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'DeepFakes for Privacy: Investigating the Effectiveness of State-of-the-Art
+    Privacy-Enhancing Face Obfuscation Methods'
+  type:
+  year: 2022
+- authors: Joseph O'Hagan, Julie R Williamson, Mohamed Khamis, Mark McGill
+  award:
+  description: "Despite recent work investigating how VR users can be made aware of\
+    \ bystanders, few have explored how bystander-VR user interactions may be facilitated\
+    \ by, for example, increasing the user\u2019s auditory awareness so they can better\
+    \ converse with bystanders. Through a lab study (N= 15) we investigated 4 approaches\
+    \ of manipulating in-VR audio to facilitate verbal interactions between a VR user\
+    \ and bystander:(1) dynamically reducing application volume,(2) removing background\
+    \ audio,(3) removing sound effects and (4) removing all audio. Our results show\
+    \ audio manipulations can be used to significantly improve a VR user\u2019s auditory\
+    \ awareness at the cost of reducing sense of presence in VR. They also show most\
+    \ preferred increased awareness be balanced with decreased presence in VR, however,\
+    \ they also identify a subset of participants who prioritised increasing awareness\
+    \ no matter the cost to presence."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 2022 International Conference on Advanced Visual Interfaces,
+      pages 1-9
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=6127274753632284971&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Exploring Manipulating In-VR Audio To Facilitate Verbal Interactions Between
+    VR Users And Bystanders
+  type:
+  year: 2022
+- authors: Florian Mathis, Joseph O'Hagan, Kami Vaniea, Mohamed Khamis
+  award:
+  description: "Evaluating interactive systems often requires researchers to invite\
+    \ user study participants to the lab. However, corresponding evaluations often\
+    \ lack realism and participants are usually recruited from a local area only.\
+    \ In this work, we propose Remote Virtual Reality for simulating Real-world Research\
+    \ (RVR3) to evaluate novel real-world authentication prototypes. A user study\
+    \ (N= 25) demonstrates the feasibility of using VR for remote usability research\
+    \ on simulated real-world prototypes. Our remote VR user study provides a glimpse\
+    \ into the usability and social acceptability of two novel authentication systems:\
+    \ Hand Menu and Tap. We build on prior research in this space and discuss the\
+    \ impact RVR3 studies have on the range of possible studies. In summary, our remote\
+    \ VR research method to design, implement, and evaluate interactive real-world\
+    \ prototypes is a next step towards moving human-centred research\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 2022 International Conference on Advanced Visual Interfaces,
+      pages 1-9
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=14617071975466129982&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Stay Home! Conducting Remote Usability Evaluations of Novel Real-World Authentication
+    Systems Using Virtual Reality
+  type:
+  year: 2022
+- authors: Jessica R Cauchard, Nigel Davies, Vito Gentile, Salvatore Sorce, Mohamed
+    Khamis
+  award:
+  description: "Digital displays have become pervasive to our everyday lives. They\
+    \ belong to our living and working environments and are relevant to many research\
+    \ areas, including human-computer interaction and ubiquitous computing. Nowadays,\
+    \ pervasive displays range from traditional public displays and media fa\xE7ades\
+    \ in urban environments, to new forms of embedded displays and multi-touch surfaces.\
+    \ Recent work explored also unconventional forms of displays, such as flying (on-drone)\
+    \ displays, wearable and flexible displays, and head-mounted AR/VR displays. Such\
+    \ heterogeneous nature of pervasive displays represents a rich resource for receiving\
+    \ ambient information, complementing our personal mobile devices, or providing\
+    \ in-situ feedback in a plethora of different domains. However, designing visionary\
+    \ deployments that go beyond traditional digital signage, and understanding users\u2019\
+    \ behavior in such diverse\_\u2026"
+  highlight: 0
+  image:
+  issue: '3'
+  link:
+    DOI:
+    bibtex:
+    display: Personal and Ubiquitous Computing, pages 587-591
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=2844769481519706628&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: Springer London
+  title: Special issue on pervasive displays
+  type: journal
+  volume: '26'
+  year: 2022
+- authors: Mohamed Khamis, Karola Marky, Andreas Bulling, Florian Alt
+  award:
+  description: "Handheld mobile devices store a plethora of sensitive data, such as\
+    \ private emails, personal messages, photos, and location data. Authentication\
+    \ is essential to protect access to sensitive data. However, the majority of mobile\
+    \ devices are currently secured by singlemodal authentication schemes which are\
+    \ vulnerable to shoulder surfing, smudge attacks, and thermal attacks. While some\
+    \ authentication schemes protect against one of these attacks, only few schemes\
+    \ address all three of them. We propose multimodal authentication where touch\
+    \ and gaze input are combined to resist shoulder surfing, as well as smudge and\
+    \ thermal attacks. Based on a series of previously published works where we studied\
+    \ the usability of several user-centred multimodal authentication designs and\
+    \ their security against multiple threat models, we provide a comprehensive overview\
+    \ of multimodal authentication on handheld mobile\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Behaviour & Information Technology, pages 1-23
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=16030876098538073415&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: Taylor & Francis
+  title: 'User-centred multimodal authentication: securing handheld mobile devices
+    using gaze and touch input'
+  type: journal
+  year: 2022
+- authors: "Karola Marky, Paul Gerber, Sebastian G\xFCnther, Mohamed Khamis, Maximilian\
+    \ Fries, Max M\xFChlh\xE4user"
+  award:
+  description: "Ensuring voters\u2019 subjective trust is key to adopting any voting\
+    \ system. Consequently, researchers, experts, and policymakers have proposed and\
+    \ implemented practices to foster the trust of voters in online voting. State-of-the-art\
+    \ practices include security features, public information, or evaluations. However,\
+    \ it remains unclear how these practices affect the voters\u2019 subjective trust.\
+    \ Through interviews with 26 participants, this work presents the first analysis\
+    \ of voters\u2019 perceptions considering state-of-the-art practices that help\
+    \ voters determine their trust in Internet voting. Among our results, we show\
+    \ practices, such as expert evaluations, that we identified as mandatory. Further,\
+    \ we found practices, such as individual verifiability, that facilitate trust.\
+    \ Others, such as vote updating, have a negative impact due to unfamiliarity.\
+    \ We, furthermore, report misconceptions, discuss ways to address them through\
+    \ different information interfaces or as part of the voting software. Finally,\
+    \ we list recommendations for the specific realization of expedient practices\
+    \ to inform developers and policymakers."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=8563206526006472930&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Investigating State-of-the-Art Practices for Fostering Subjective Trust in
+    Online Voting through Interviews
+  type:
+  year: 2022
+- authors: "Karola Marky, Nina Gerber, Michelle Gabriela Pelzer, Mohamed Khamis, Max\
+    \ M\xFChlh\xE4user"
+  award:
+  description: IoT devices are becoming more common and prevalent in private households.
+    Since guests can be present in IoT-equipped households, IoT devices can pose considerable
+    privacy risks to them. In this paper, we present an in-depth evaluation of privacy
+    protection for guests considering the perspectives of hosts and guests. First,
+    we interviewed 21 IoT device owners about four classes of mechanisms obtained
+    from the literature Second, we conducted an online survey that investigates the
+    perspective of guests in IoT-equipped households (N= 264). From our results, we
+    learn that protection mechanisms should not introduce privacy threats and require
+    low resources. Further, hosts should keep control over their devices and the aesthetics
+    of their living spaces. Guests, however, value feedback about the status of privacy
+    protection which can interfere with aesthetics. Privacy protection should rather
+    foster collaboration and not impact the visit of the guest too severely. We use
+    our results to identify a design space for guest privacy protection in IoT-equipped
+    households.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings on Privacy Enhancing Technologies, pages 21
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=2035061890743654443&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: "\u201CYou offer privacy like you offer tea\u201D: Investigating Mechanisms\
+    \ for Improving Guest Privacy in IoT-Equipped Households"
+  type: journal
+  volume: '1'
+  year: 2022
+- authors: "Yasmeen Abdrabou, Johannes Sch\xFCtte, Ahmed Shams, Ken Pfeuffer, Daniel\
+    \ Buschek, Mohamed Khamis, Florian Alt"
+  award:
+  description: "A significant drawback of text passwords for end-user authentication\
+    \ is password reuse. We propose a novel approach to detect password reuse by leveraging\
+    \ gaze as well as typing behavior and study its accuracy. We collected gaze and\
+    \ typing behavior from 49 users while creating accounts for 1) a webmail client\
+    \ and 2) a news website. While most participants came up with a new password,\
+    \ 32% reported having reused an old password when setting up their accounts. We\
+    \ then compared different ML models to detect password reuse from the collected\
+    \ data. Our models achieve an accuracy of up to 87.7% in detecting password reuse\
+    \ from gaze, 75.8% accuracy from typing, and 88.75% when considering both types\
+    \ of behavior. We demonstrate that using gaze, password reuse can already be detected\
+    \ during the registration process, before users entered their password. Our work\
+    \ paves the road for developing\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: CHI Conference on Human Factors in Computing Systems, pages 1-16
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=14568044975512849699&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: "\u201D Your Eyes Tell You Have Used This Password Before\u201D: Identifying\
+    \ Password Reuse from Gaze and Keystroke Dynamics"
+  type:
+  year: 2022
+- authors: Wen-Jie Tseng, Elise Bonnail, Mark Mcgill, Mohamed Khamis, Eric Lecolinet,
+    Samuel Huron, Jan Gugenheimer
+  award:
+  description: "\u201CVirtual-Physical Perceptual Manipulations\u201D(VPPMs) such\
+    \ as redirected walking and haptics expand the user\u2019s capacity to interact\
+    \ with Virtual Reality (VR) beyond what would ordinarily physically be possible.\
+    \ VPPMs leverage knowledge of the limits of human perception to effect changes\
+    \ in the user\u2019s physical movements, becoming able to (perceptibly and imperceptibly)\
+    \ nudge their physical actions to enhance interactivity in VR. We explore the\
+    \ risks posed by the malicious use of VPPMs. First, we define, conceptualize and\
+    \ demonstrate the existence of VPPMs. Next, using speculative design workshops,\
+    \ we explore and characterize the threats/risks posed, proposing mitigations and\
+    \ preventative recommendations against the malicious use of VPPMs. Finally, we\
+    \ implement two sample applications to demonstrate how existing VPPMs could be\
+    \ trivially subverted to create the potential for physical harm. This paper\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: CHI Conference on Human Factors in Computing Systems, pages 1-15
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=10333372083991281183&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: The Dark Side of Perceptual Manipulations in Virtual Reality
+  type:
+  year: 2022
+- authors: Jan Gugenheimer, Wen-Jie Tseng, Abraham Hani Mhaidli, Jan Ole Rixen, Mark
+    McGill, Michael Nebeling, Mohamed Khamis, Florian Schaub, Sanchari Das
+  award:
+  description: "Extended Reality (AR/VR/MR) technology is becoming increasingly affordable\
+    \ and capable, becoming ever more interwoven with everyday life. HCI research\
+    \ has focused largely on innovation around XR technology, exploring new use cases\
+    \ and interaction techniques, understanding how this technology is used and appropriated\
+    \ etc. However, equally important is the investigation and consideration of risks\
+    \ posed by such advances, specifically in contributing to new vulnerabilities\
+    \ and attack vectors with regards to security, safety, and privacy that are unique\
+    \ to XR. For example perceptual manipulations in VR, such as redirected walking\
+    \ or haptic retargeting, have been developed to enhance interaction, yet subversive\
+    \ use of such techniques has been demonstrated to unlock new harms, such as redirecting\
+    \ the VR user into a collision. This workshop will convene researchers focused\
+    \ on HCI, XR, Safety, Security\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: CHI Conference on Human Factors in Computing Systems Extended Abstracts,
+      pages 1-5
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=4763860258564762765&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Novel Challenges of Safety, Security and Privacy in Extended Reality
+  type:
+  year: 2022
+- authors: Robin Bretin, Emily S Cross, Mohamed Khamis
+  award:
+  description: "While a growing body of literature has begun to examine proxemics\
+    \ in light of human\u2013robot interactions, it is unclear how insights gained\
+    \ from human\u2013human or human\u2013robot interaction (HRI) apply during human\u2013\
+    drone interactions (HDI). Understanding why and how people locate themselves around\
+    \ drones is thus critical to ensure drones are socially acceptable. In this paper,\
+    \ we present a proxemic user study (N= 45) in virtual reality focusing on 1) the\
+    \ impact of the drone\u2019s height and 2) the type of cover story used to introduce\
+    \ the drone (framing) on participants\u2019 proxemic preferences. We found that\
+    \ the flying height has a statistically significant effect on the preferred interpersonal\
+    \ distance, whereas no evidence was found related to how the drone was framed.\
+    \ While results also highlight the value of using Virtual Reality for HDI experiments,\
+    \ further research must be carried out to investigate how these findings\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: CHI Conference on Human Factors in Computing Systems Extended Abstracts,
+      pages 1-9
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=9581729705441700955&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: "Co-existing With a Drone: Using Virtual Reality to Investigate the Effect\
+    \ of the Drone\u2019s Height and Cover Story on Proxemic Behaviours"
+  type:
+  year: 2022
+- authors: Kieran Watson, Robin Bretin, Mohamed Khamis, Florian Mathis
+  award:
+  description: "A large body of work investigated touch, mid-air, and gaze-based user\
+    \ authentication. However, little is known about authentication using other human\
+    \ body parts. In this paper, we investigate the idea of foot-based user authentication\
+    \ for public displays (eg, ticket machines). We conducted a user study (N= 13)\
+    \ on a virtual prototype, FeetAuth, on which participants use their dominant foot\
+    \ to rotate through PIN elements (0\u20139) that are augmented along a circular\
+    \ layout using augmented reality (AR) technology. We investigate FeetAuth in combination\
+    \ with three different layouts: Floor-based, Spatial, and Egocentric, finding\
+    \ that Floor-based FeetAuth resulted in the highest usability with 4-digit PIN\
+    \ entry as fast as M= 6.71 (SD= 0.67). Participants perceived foot-based authentication\
+    \ as socially acceptable and highlighted its accessibility. Our investigation\
+    \ of foot-based authentication paves the way for further studies on the\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: CHI Conference on Human Factors in Computing Systems Extended Abstracts,
+      pages 1-9
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=16758190347391917457&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'The Feet in Human-Centred Security: Investigating Foot-Based User Authentication
+    for Public Displays'
+  type:
+  year: 2022
+- authors: Mohamed Khamis, Habiba Farzand, Marija Mumm, Karola Marky
+  award:
+  description: "There are many contexts in which a person\u2019s face needs to be\
+    \ obfuscated for privacy, such as in social media posts. We present a user-centered\
+    \ analysis of the effectiveness of DeepFakes for obfuscation using synthetically\
+    \ generated faces, and compare it with state-of-the-art obfuscation methods: blurring,\
+    \ masking, pixelating, and replacement with avatars. For this, we conducted an\
+    \ online survey (N= 110) and found that DeepFake obfuscation is a viable alternative\
+    \ to state-of-the-art obfuscation methods; it is as effective as masking and avatar\
+    \ obfuscation in concealing the identities of individuals in photos. At the same\
+    \ time, DeepFakes blend well with surroundings and are as aesthetically pleasing\
+    \ as blurring and pixelating. We discuss how DeepFake obfuscation can enhance\
+    \ privacy protection without negatively impacting the photo\u2019s aesthetics."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=10858415901426666823&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'DeepFakes for Privacy: Investigating Perceptions and Effectiveness of State-of-the-Art
+    Privacy-Enhancing Face Obfuscation Methods'
+  type:
+  year: 2022
+- authors: Norah Alotaibi, Md Shafiqul Islam, Karola Marky, Mohamed Khamis
+  award:
+  description: "Thermal cameras can be used to detect user input on interfaces, such\
+    \ as touchscreens, keyboards, and PIN pads, by recording the heat traces left\
+    \ by the users\u2019 fingers after interaction (eg, typing a message or entering\
+    \ a PIN) and using them to reconstruct the input. While previous work mitigated\
+    \ the thermal attacks by complicating input or distorting heat traces, our research\
+    \ is the first to propose preventing thermal attack using deep learning (DL) techniques\
+    \ to prevent malicious use of thermal cameras. Our DL models detect interfaces\
+    \ in the thermal camera feed and then obfuscate heat traces on them. Our preliminary\
+    \ findings show that the proposed framework can detect interfaces and eliminate\
+    \ authentication information from thermal images. At the same time, our methods\
+    \ still reveal if an interface has been interacted with. Thus, our approach improves\
+    \ security without impacting the utility of the thermal camera."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 27th International Conference on Intelligent User Interfaces, pages 18-21
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=6346263070767406919&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Advanced Techniques for Preventing Thermal Imaging Attacks
+  type:
+  year: 2022
+- authors: Florian Mathis, Kami Vaniea, Mohamed Khamis
+  award:
+  description: "Iterative design, implementation, and evaluation of prototype systems\
+    \ is a common approach in Human-Computer Interaction (HCI) and Usable Privacy\
+    \ and Security (USEC); however, research involving physical prototypes can be\
+    \ particularly challenging. We report on twelve interviews with established and\
+    \ nascent USEC researchers who prototype security and privacy-protecting systems\
+    \ and have published work in top-tier venues. Our interviewees range from professors\
+    \ to senior PhD candidates, and researchers from industry. We discussed their\
+    \ experiences conducting USEC research that involves prototyping, opinions on\
+    \ the challenges involved, and the ecological validity issues surrounding current\
+    \ evaluation approaches. We identify the challenges faced by researchers in this\
+    \ area such as the high costs of conducting field studies when evaluating hardware\
+    \ prototypes, the scarcity of open-source material\_\u2026"
+  highlight: 0
+  image:
+  issue: '5'
+  link:
+    DOI:
+    bibtex:
+    display: "International Journal of Human\u2013Computer Interaction, pages 468-490"
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=4314701491619528676&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: Taylor & Francis
+  title: 'Prototyping usable privacy and security systems: insights from experts'
+  type: journal
+  volume: '38'
+  year: 2022
+- authors: "Florian Mathis, Joseph O\u2019Hagan, Mohamed Khamis, Kami Vaniea"
+  award:
+  description: "Given the difficulties of studying the shoulder surfing resistance\
+    \ of authentication systems in a live setting, researchers often ask study participants\
+    \ to shoulder surf authentications by watching two-dimensional (2D) video recordings\
+    \ of a user authenticating. How-ever, these video recordings do not provide participants\
+    \ with a realistic shoulder surfing experience, creating uncertainty in the value\
+    \ and validity of lab-based shoulder surfing experiments. In this work, we exploit\
+    \ the unique characteristics of virtual reality (VR) and study the use of non-immersive/immersive\
+    \ VR recordings for shoulder surfing research. We conducted a user study (N=18)\
+    \ to explore the strengths and weaknesses of such a VR-based shoulder surfing\
+    \ research approach. Our results suggest that immersive VR observations result\
+    \ in a more realistic shoulder surfing experience, in a significantly higher sense\
+    \ of being part of the authentication\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR),
+      pages 291-300
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=13786278827323831996&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: IEEE
+  title: 'Virtual Reality Observations: Using Virtual Reality to Augment Lab-Based
+    Shoulder Surfing Research'
+  type: conference
+  year: 2022
+- authors: Florian Mathis, Kami Vaniea, Mohamed Khamis
+  award:
+  description: "In situ evaluations of novel authentication systems, where the system\
+    \ is evaluated in its intended usage context, are often infeasible due to ethical\
+    \ and legal constraints. Consequently, researchers evaluate their authentication\
+    \ systems in the lab, which questions the eco-logical validity. In this work,\
+    \ we explore how VR can overcome the shortcomings of authentication studies conducted\
+    \ in the lab and contribute towards more realistic authentication research. We\
+    \ built a highly realistic automated teller machine (ATM) and a VR replica to\
+    \ investigate through a user study (N=20) the impact of in situ evaluations on\
+    \ an authentication system\u2018s usability results. We evaluated and compared:\
+    \ Lab studies in the real world, lab studies in VR, in situ studies in the real\
+    \ world, and in situ studies in VR. Our findings highlight 1) VR\u2018s great\
+    \ potential to circumvent potential restrictions researchers experience when evaluating\_\
+    \u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR),
+      pages 301-310
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=11194692198056053258&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: IEEE
+  title: Can I Borrow Your ATM? Using Virtual Reality for (Simulated) In Situ Authentication
+    Research
+  type: conference
+  year: 2022
+- authors: "Yasmeen Abdrabou, Radiah Rivu, Tarek Ammar, Jonathan Liebers, Alia Saad,\
+    \ Carina Liebers, Uwe Gruenefeld, Pascal Knierim, Mohamed Khamis, Ville M\xE4\
+    kel\xE4, Stefan Schneegass, Florian Alt"
+  award:
+  description: 'We explore how attackers behave during shoulder surfing. Unfortunately,
+    such behavior is challenging to study as it is often opportunistic and can occur
+    wherever potential attackers can observe other people''s private screens. Therefore,
+    we investigate shoulder surfing using virtual reality (VR). We recruited 24 participants
+    and observed their behavior in two virtual waiting scenarios: at a bus stop and
+    in an open office space. In both scenarios, avatars interacted with private screens
+    displaying different content, thus providing opportunities for shoulder surfing.
+    From the results, we derive an understanding of factors influencing shoulder surfing
+    behavior.'
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
+      and Workshops (VRW), pages 576-577
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=375882936308939974&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: IEEE
+  title: Understanding Shoulder Surfer Behavior Using Virtual Reality
+  type: conference
+  year: 2022
+- authors: "Mihai B\xE2ce, Alia Saad, Mohamed Khamis, Stefan Schneegass, Andreas Bulling"
+  award:
+  description: "One approach to mitigate shoulder surfing attacks on mobile devices\
+    \ is to detect the presence of a bystander using the phone\u2019s front-facing\
+    \ camera. However, a person\u2019s face in the camera\u2019s field of view does\
+    \ not always indicate an attack. To overcome this limitation, in a novel data\
+    \ collection study (N= 16), we analysed the influence of three viewing angles\
+    \ and four distances on the success of shoulder surfing attacks. In contrast to\
+    \ prior works that mainly focused on user authentication, we investigated three\
+    \ common types of content susceptible to shoulder surfing: text, photos, and PIN\
+    \ authentications. We show that the vulnerability of text and photos depends on\
+    \ the observer\u2019s location relative to the device, while PIN authentications\
+    \ are vulnerable independent of the observation location. We then present PrivacyScout\u2013\
+    a novel method that predicts the shoulder-surfing risk based on visual features\
+    \ extracted from the observer\u2019s face as captured by the front-facing camera.\
+    \ Finally, evaluations from our data collection study demonstrate our method\u2019\
+    s feasibility to assess the risk of a shoulder surfing attack more accurately."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings on Privacy Enhancing Technologies, pages 21
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=14052424626985293669&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'PrivacyScout: Assessing Vulnerability to Shoulder Surfing on Mobile Devices'
+  type: journal
+  volume: '1'
+  year: 2022
+- authors: Habiba Farzand, Florian Mathis, Karola Marky, Mohamed Khamis
+  award:
+  description: "Contact Tracing Apps (CTAs) have been developed and deployed in various\
+    \ parts of the world to track the spread of COVID-19. However, low social acceptance\
+    \ and the lack of adoption can impact CTA effectiveness. Prior work primarily\
+    \ focused on the privacy and security of CTAs, compared different models, and\
+    \ studied their app design. However, it remains unclear (1) how CTA privacy is\
+    \ perceived by end-users;(2) what reasons behind low adoption rates are, and (3)\
+    \ what the situation around the social acceptability of CTAs is. In this paper,\
+    \ we investigate these aspects by surveying 80 participants (40 from Australia,\
+    \ 40 from France). Our study reveals interesting results on CTA usage, experiences,\
+    \ and user perceptions. We found that privacy concerns, tech unawareness, app\
+    \ requisites, and mistrust can reduce the users\u2019 willingness to use CTAs.\
+    \ We conclude by presenting ways to foster public trust and meet users\u2019 privacy\
+    \ expectations that in turn support CTA\u2019s adoption."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=10805259135811311988&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Trust & Privacy Expectations during Perilous Times of Contact Tracing
+  type:
+  year: 2022
+- authors: Pejman Saeghe, Mark McGill, Mohamed Khamis
+  award:
+  description: The commercialisation of extended reality (XR) devices provides new
+    capabilities for its user, such as the ability to continuously capture their surroundings.
+    This introduces novel privacy risks and challenges for XR users and bystanders
+    alike. In this position paper, we use an established taxonomy of privacy to highlight
+    its limitations when dealing with everyday XR. Our aim is to highlight a need
+    for an update in our collective understanding of privacy risks imposed by everyday
+    XR technology.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=15101419926607044710&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Safeguarding Privacy in the Age of Everyday XR
+  type:
+  year: 2022
+- authors: Uwe Gruenefeld, Jonas Auda, Florian Mathis, Stefan Schneegass, Mohamed
+    Khamis, Jan Gugenheimer, Sven Mayer
+  award:
+  description: "Cross-reality systems empower users to transition along the reality-virtuality\
+    \ continuum or collaborate with others experiencing different manifestations of\
+    \ it. However, prototyping these systems is challenging, as it requires sophisticated\
+    \ technical skills, time, and often expensive hardware. We present VRception,\
+    \ a concept and toolkit for quick and easy prototyping of cross-reality systems.\
+    \ By simulating all levels of the reality-virtuality continuum entirely in Virtual\
+    \ Reality, our concept overcomes the asynchronicity of realities, eliminating\
+    \ technical obstacles. Our VRception Toolkit leverages this concept to allow rapid\
+    \ prototyping of cross-reality systems and easy remixing of elements from all\
+    \ continuum levels. We replicated six cross-reality papers using our toolkit and\
+    \ presented them to their authors. Interviews with them revealed that our toolkit\
+    \ sufficiently replicates their core functionalities and allows quick iterations\_\
+    \u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=6568782638169900898&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'VRception: Rapid Prototyping of Cross-Reality Systems in Virtual Reality'
+  type:
+  year: 2022
+- authors: Yuanjie Xia, Mohamed Khamis, F Anibal Fernandez, Hadi Heidari, Haider Butt,
+    Zubair Ahmed, Tim Wilkinson, Rami Ghannam
+  award:
+  description: "Contact lenses have traditionally been used for vision correction\
+    \ applications. Recent advances in microelectronics and nanofabrication on flexible\
+    \ substrates have now enabled sensors, circuits and other essential components\
+    \ to be integrated on a small contact lens platform. This has opened up the possibility\
+    \ of using contact lenses for a range of human-machine interaction applications\
+    \ including vision assistance, eye tracking, displays and health care. In this\
+    \ article, we systematically review the range of smart contact lens materials,\
+    \ device architectures and components that facilitate this interaction for different\
+    \ applications. In fact, evidence from our systematic review demonstrates that\
+    \ these lenses can be used to display information, detect eye movements, restore\
+    \ vision and detect certain biomarkers in tear fluid. Consequently, whereas previous\
+    \ state-of the-art reviews in contact lenses focused exclusively on biosensing,\
+    \ our systematic review covers a wider range of smart contact lens applications\
+    \ in HMI. Moreover, we present a new method of classifying the literature on smart\
+    \ contact lenses according to their six constituent building blocks, which are\
+    \ the sensing, energy management, driver electronics, communications, substrate\
+    \ and the interfacing modules. Based on recent developments in each of these categories,\
+    \ we speculate the challenges and opportunities of smart contact lenses for human-machine\
+    \ interaction. Moreover, we propose a novel self-powered smart contact lens concept\
+    \ with integrated energy harvesters, sensors and communication modules to enable\
+    \ autonomous operation. Our review is therefore a critical evaluation of\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=14108648299406909607&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  source: arXiv preprint arXiv:2112.10905
+  title: State-of-the-Art in Smart Contact Lenses for Human Machine Interaction
+  type:
+  year: 2021
+- authors: "Hans-Christian Jetter, Jan-Henrik Schr\xF6der, Jan Gugenheimer, Mark Billinghurst,\
+    \ Christoph Anthes, Mohamed Khamis, Tiare Feuchtner"
+  award:
+  description: Transitional interfaces (TIs) and related concepts such as cross-reality
+    (XR) or cross-virtuality (XV) are key topics for future HCI and AR/VR research.
+    Future TIs will enable users to freely move between different locations within
+    the reality-virtuality continuum during work, to choose the best technologies
+    for their task at hand and current information need. Our workshop will explore
+    the core advantages and challenges of TIs and related concepts and address them
+    in presentations and workshop activities at ACM ISS 2021.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Interactive Surfaces and Spaces, pages 46-49
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=7655379300532683394&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'Transitional Interfaces in Mixed and Cross-Reality: A new frontier?'
+  type:
+  year: 2021
+- authors: Joseph O'Hagan, Mohamed Khamis, Julie R Williamson
+  award:
+  description: 'Since the resurgence of consumer-grade virtual reality (VR), VR has
+    successfully established itself on the consumer market. As with any emerging technology,
+    differences can exist between how industry/academia view the technology and how
+    consumers perceive it. We present results from a survey (N= 210) conducted into
+    consumer perception and attitudes towards VR. We report sentiment towards VR is
+    positive. We show the associations linked with VR by our respondents match the
+    defining characteristics of VR identified by experts in the literature (a fully
+    virtual view, immersion, and head-worn technology). We identify 3 additional concepts
+    associated with VR by our respondents: video games, futurism, and price. However,
+    our results also show consumer expectations for VR are fixated around" VR for
+    gaming" and suggest VR has to an extent been pigeonholed as primarily being a
+    gaming device.'
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the International Workshop on Immersive Mixed and Virtual
+      Environment Systems (MMVE'21), pages 14-20
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=6505965414426599800&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Surveying Consumer Understanding & Sentiment Of VR
+  type:
+  year: 2021
+- authors: Ana de Oliveira, Mohamed Khamis, Augusto Esteves
+  award:
+  description: "We explore the use of Virtual Reality as a way to simulate field studies\
+    \ via what is known as Virtual Field Studies. This is particularly relevant when\
+    \ inviting participants to the lab is not feasible, or in the case of our work\
+    \ to simulate locomotion in crowded streets from the safety of the lab. We rely\
+    \ on this to assess the effects of four different cues in normalising gait performance\
+    \ in a simulated environment: two baselines from literature (visual and haptic)\
+    \ that have been traditionally explored in the context of a controlled lab environment,\
+    \ and two novel haptic cues that combine temporal and spatial feedback. We compare\
+    \ these in a holistic manner for the first time, capturing not only gait and gaze\
+    \ performance, but usability, perceived workload, and participant preference.\
+    \ Our haptic baseline performed according to the results described in the literature,\
+    \ and together with participants' gaze behaviour and sense of\_\u2026"
+  highlight: 0
+  image:
+  issue: '12'
+  link:
+    DOI:
+    bibtex:
+    display: Behaviour & Information Technology, pages 1292-1309
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=16765019770272610146&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: Taylor & Francis
+  title: 'GaitWear: a smartwatch application for in-the-wild gait normalisation based
+    on a virtual field study assessing the effects of visual and haptic cueing'
+  type: journal
+  volume: '40'
+  year: 2021
+- authors: Habiba Farzand, Kinshuk Bhardwaj, Karola Marky, Mohamed Khamis
+  award:
+  description: "Shoulder surfing refers to observing someone\u2019s device screen\
+    \ without their consent. Conspicuously switching off the screen upon noticing\
+    \ a friend observing private messages may create an embarrassing situation. Initial\
+    \ evidence indicates that users adopt strategies to mitigate shoulder surfing\
+    \ based on their relationship to the observer. However, the social implications\
+    \ of such mitigation strategies remain largely unexplored. We present findings\
+    \ from an interview study with 12 participants to address this. We analyze experiences\
+    \ with shoulder surfers of different relationships to the user and collect feedback\
+    \ on eleven state-of-the-arts strategies for mitigating shoulder surfing. We show\
+    \ that the user-observer relationship impacts the choice of mitigation methods\
+    \ and that users often do not want observers to know they were caught. Based on\
+    \ our results, we conclude with implications for designing socially acceptable\_\
+    \u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Mensch und Computer 2021, pages 338-343
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=4597113401059956269&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: The Interplay between Personal Relationships & Shoulder Surfing Mitigation
+  type:
+  year: 2021
+- authors: Yasmeen Abdrabou, Reem Hatem, Yomna Abdelrahman, Amr Elmougy, Mohamed Khamis
+  award:
+  description:
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: IFIP Conference on Human-Computer Interaction, pages 712-721
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=6271661626927319659&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: Springer, Cham
+  title: 'Passphrases Beat Thermal Attacks: Evaluating Text Input Characteristics
+    Against Thermal Attacks on Laptops and Smartphones'
+  type: conference
+  year: 2021
+- authors: "Joseph O\u2019Hagan, Julie R Williamson, Mark McGill, Mohamed Khamis"
+  award:
+  description: "VR users and bystanders must sometimes interact, but our understanding\
+    \ of these interactions - their purpose, how they are accomplished, attitudes\
+    \ toward them, and where they break down - is limited. This current gap inhibits\
+    \ research into managing or supporting these interactions, and preventing unwanted\
+    \ or abusive activity. We present the results of the first survey (N=100) that\
+    \ investigates stories of actual emergent in-the-wild interactions between VR\
+    \ users and bystanders. Our analysis indicates VR user and bystander interactions\
+    \ can be categorised into one of three categories: coexisting, demoing, and interrupting.\
+    \ We highlight common interaction patterns and impediments encountered during\
+    \ these interactions. Bystanders play an important role in moderating the VR user\u2019\
+    s experience, for example intervening to save the VR user from potential harm.\
+    \ However, our stories also suggest that the occlusive\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR),
+      pages 211-220
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=5196969943698327692&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: IEEE Computer Society
+  title: 'Safety, Power Imbalances, Ethics and Proxy Sex: Surveying In-The-Wild Interactions
+    Between VR Users and Bystanders'
+  type: conference
+  year: 2021
+- authors: Misahael Fernandez, Florian Mathis, Mohamed Khamis
+  award:
+  description: 'We present GazeWheels: a series of visual feedback methods for dwell-based
+    gaze input in the form of a wheel that is filled gradually until target selection.
+    We evaluate three variations: Resetting, Pause & Resume and Infinite GazeWheel,
+    and study how dwell duration and visual feedback position (co-located vs remote)
+    impact performance. Findings from a user study (N = 19) show that Infinite and
+    Pause & Resume GazeWheels are error prone but significantly faster than Resetting
+    GazeWheel even when including error correction time. We conclude with five design
+    recommendations.'
+  highlight: 0
+  image:
+  issue: '3'
+  link:
+    DOI:
+    bibtex:
+    display: it-Information Technology, pages 145-156
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=8098667188964062583&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: De Gruyter Oldenbourg
+  title: 'GazeWheels: Recommendations for using wheel widgets for feedback during
+    dwell-time gaze input'
+  type: journal
+  volume: '63'
+  year: 2021
+- authors: Florian Mathis, Kami Vaniea, Mohamed Khamis
+  award:
+  description: "There are many cases where observing the interactions of a virtual\
+    \ avatar can be useful. However, it is unclear to what extent the avatar fidelity\
+    \ affects bystanders\u2019 performance when observing gestures performed by avatars.\
+    \ We, therefore, conducted an online study (N= 28) with different avatars performing\
+    \ touch, mid-air, and eye gaze gestures. Our avatars range from an abstract avatar\
+    \ to two more realistic ones. Our study shows that an abstract avatar provides\
+    \ bystanders with the same interaction information as more realistic avatars.\
+    \ This implies that it is sufficient to use abstract avatar designs when observing\
+    \ interaction behaviour in virtual environments and researchers do not necessarily\
+    \ need to go through time-consuming and expensive implementations of highly realistic\
+    \ avatars to answer their research questions, making Virtual Reality (VR) studies\
+    \ more accessible to the broader research community. Finally\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Academic Mindtrek 2021, pages 154-164
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=2415785870232033753&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: "Observing virtual avatars: The impact of avatars\u2019 fidelity on identifying\
+    \ interactions"
+  type:
+  year: 2021
+- authors: Yasmeen Abdrabou, Ahmed Shams, Mohamed Omar Mantawy, Anam Ahmad Khan, Mohamed
+    Khamis, Florian Alt, Yomna Abdelrahman
+  award:
+  description: "We investigate the use of gaze behaviour as a means to assess password\
+    \ strength as perceived by users. We contribute to the effort of making users\
+    \ choose passwords that are robust against guessing-attacks. Our particular idea\
+    \ is to consider also the users\u2019 understanding of password strength in security\
+    \ mechanisms. We demonstrate how eye tracking can enable this: by analysing people\u2019\
+    s gaze behaviour during password creation, its strength can be determined. To\
+    \ demonstrate the feasibility of this approach, we present a proof of concept\
+    \ study (N= 15) in which we asked participants to create weak and strong passwords.\
+    \ Our findings reveal that it is possible to estimate password strength from gaze\
+    \ behaviour with an accuracy of 86% using Machine Learning. Thus, we enable research\
+    \ on novel interfaces that consider users\u2019 understanding with the ultimate\
+    \ goal of making users choose stronger passwords."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: ACM Symposium on Eye Tracking Research and Applications, pages 1-12
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=6955034175134283785&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'GazeMeter: Exploring the Usage of Gaze Behaviour to Enhance Password Assessments'
+  type:
+  year: 2021
+- authors: Jolie Bonner, Joseph O'Hagan, Florian Mathis, Jamie Ferguson, Mohamed Khamis
+  award:
+  description: "Dynamic personal data based on a user\u2019s activity, such as recent\
+    \ visited physical locations, browsing history, and call logs, update frequently,\
+    \ making it a promising token for user authentication. However, it is not clear\
+    \ how users perceive this use of personal data and which data types are most suitable\
+    \ for authentication. To investigate this, we conducted an online survey with\
+    \ N= 100 participants. For 10 personal data types we asked participants about\
+    \ their comfort with this data for authentication, its perceived security, its\
+    \ impact on behaviour, who has access to it, how frequently it updates, and how\
+    \ memorable they perceive it to be. We found that participants were generally\
+    \ uncomfortable with personal data being used for authentication and, knowing\
+    \ their personal data is used, they may intentionally change their behaviour due\
+    \ to privacy concerns. We discuss the benefits and drawbacks of using personal\
+    \ data as a\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 20th International Conference on Mobile and Ubiquitous Multimedia, pages
+      35-42
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=17391863757320247511&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'Using Personal Data to Support Authentication: User Attitudes and Suitability'
+  type:
+  year: 2021
+- authors: Melvin Abraham, Mohamed Khamis
+  award:
+  description:
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=5531562844343878429&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Communicating Security & Privacy Information in Virtual Reality
+  type:
+  year: 2021
+- authors: Tania Wallis, Chris Johnston, Mohamed Khamis
+  award:
+  description: The transposition of the EU Directive on Network and Information Security
+    (NIS) by EU Member States involved assigning a set of responsibilities to operators,
+    regulators and policy makers within a national cybersecurity strategy, in order
+    to improve cybersecurity levels across critical infrastructures. This research
+    investigates the perspectives and experiences of organisations affected by the
+    NIS Directive focussing on three different sectors (Energy, Water & Aviation).
+    The authors evaluate the response of different actors to NIS interventions and
+    their challenges in meeting their assigned responsibilities, in particular their
+    ability to oversee supply chain cybersecurity. It proposes further support for
+    partnerships and cooperation across organisations to increase the effectiveness
+    of NIS implementation. Based on results from semi-structured interviews and observations
+    of industry working groups, an approach to supply chain oversight to achieve a
+    balance between control and cooperation is recommended, to improve cybersecurity
+    within industry sectors and across critical national infrastructures. Although
+    our initial focus has been on working mainly with UK stakeholders, we argue that
+    our recommendations have a more general application beyond those countries directly
+    affected by the Directive.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 'Information and Security: An International Journal, pages 36-68'
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=11868253231093227060&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: Procon Ltd.
+  title: 'Interorganizational cooperation in supply chain cybersecurity: A cross-industry
+    study of the effectiveness of the UK implementation of the NIS Directive'
+  type: journal
+  volume: '48'
+  year: 2021
+- authors: Vito Gentile, Mohamed Khamis, Fabrizio Milazzo, Salvatore Sorce, Alessio
+    Malizia, Florian Alt
+  award:
+  description: "Knowledge about the expected interaction duration and expected distance\
+    \ from which users will interact with public displays can be useful in many ways.\
+    \ For example, knowing upfront that a certain setup will lead to shorter interactions\
+    \ can nudge space owners to alter the setup. If a system can predict that incoming\
+    \ users will interact at a long distance for a short amount of time, it can accordingly\
+    \ show shorter versions of content (e.g., videos/advertisements) and employ at-a-distance\
+    \ interaction modalities (e.g., mid-air gestures). In this work, we propose a\
+    \ method to build models for predicting users\u2019 interaction duration and distance\
+    \ in public display environments, focusing on mid-air gestural interactive displays.\
+    \ First, we report our findings from a field study showing that multiple variables,\
+    \ such as audience size and behaviour, significantly influence interaction duration\
+    \ and distance. We then train predictor models\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: International Journal of Human-Computer Studies, pages 102497
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=10729645078097151813&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: Academic Press
+  title: Predicting mid-air gestural interaction with public displays based on audience
+    behaviour
+  type: journal
+  volume: '144'
+  year: 2020
+- authors: "Adalberto L Simeone, Mohamed Khamis, Augusto Esteves, Florian Daiber,\
+    \ Matja\u017E Kljun, Klen \u010Copi\u010D Pucihar, Poika Isokoski, Jan Gugenheimer"
+  award:
+  description: "Established as separate disciplines, Augmented Reality (AR) and Virtual\
+    \ Reality (VR) have already positioned themselves as strong research disciplines.\
+    \ However, being part of the same Reality-Virtuality continuum, as presented by\
+    \ Paul Milgram, it is possible to envision (i) a smooth transition between systems\
+    \ using different degrees of virtuality or (ii) collaboration between users using\
+    \ different systems with different degrees of virtuality. We refer to these types\
+    \ of systems as cross-reality (XR) systems, which can better fulfil different\
+    \ modalities for a given task or context of use, and potentially enable rich applications\
+    \ in training, education, remote assistance, or emergency response compared to\
+    \ individual closed systems. This workshop will bring together researchers and\
+    \ practitioners that are interested in XR to identify current issues and future\
+    \ directions of research while the long-term goal is to create a strong\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Companion Proceedings of the 2020 Conference on Interactive Surfaces
+      and Spaces, pages 111-114
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=12436313517192553729&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: International Workshop on Cross-Reality (XR) Interaction
+  type:
+  year: 2020
+- authors: Ana de Oliveira, Mohamed Khamis, Augusto Esteves
+  award:
+  description: "This work aims to assess the eect of visual and haptic cues in users\
+    \ with gait impairments; not only in performance, but also in terms of usability,\
+    \ perceived cognitive load, and safety. These haptic cues were delivered via wrist-worn\
+    \ devices, with the goal of supporting these users while out in-the-wild\u2013\
+    three types of haptic cues were tested. To further assess the impact of haptic\
+    \ and visual cues outside of a laboratory environment, we used a Virtual Reality\
+    \ Field Study to safely assess the impact of these cues in users\u2019 awareness\
+    \ of their surroundings (measured via gaze hits and dwell). Despite conducting\
+    \ a preliminary study with participants not suering from gait impairments (N=\
+    \ 6), our results seem to indicate a positive eect of the haptic cues in regards\
+    \ to participant cadence, step length, and general awareness of their surroundings\
+    \ when compared to the visual cue. One of the simpler haptic cues was also the\
+    \ preferred stimulus by all participants."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=17638939394623494230&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Using a VR Field Study to Assess the Effects of Visual and Haptic Cues in"
+    In-the-Wild" Locomotion
+  type:
+  year: 2020
+- authors: Sarah Prange, Lukas Mecke, Alice Nguyen, Mohamed Khamis, Florian Alt
+  award:
+  description: This paper investigates how smartphone users perceive switching from
+    their primary authentication mechanism to a fallback one, based on the context.
+    This is useful in cases where the primary mechanism fails (eg, wet fingers when
+    using fingerprint). While prior work introduced the concept, we are the first
+    to investigate its perception by users and their willingness to follow a system's
+    suggestion for a switch. We present findings from a two-week field study (N= 29)
+    using an Android app, showing that users are willing to adopt alternative mechanisms
+    when prompted. We discuss how context-awareness can improve the perception of
+    authentication reliability and potentially improve usability and security.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: International Conference on Advanced Visual Interfaces (AVI 2020)
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=10392497593229762066&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: "Don\u2019t Use Fingerprint, it\u2019s Raining! How People Use and Perceive\
+    \ Context-Aware Selection of Mobile Authentication"
+  type: conference
+  year: 2020
+- authors: Sarah Prange, Lukas Mecke, Michael Stadler, Maximilian Balluff, Mohamed
+    Khamis, Florian Alt
+  award:
+  description: "While we put great effort in protecting digital devices and data,\
+    \ there is a lack of research on usable techniques to secure personal items that\
+    \ we carry in public space. To better understand situations where ubiquitous technologies\
+    \ could help secure personal items, we conducted an online survey (N= 101) in\
+    \ which we collected real-world stories from users reporting on personal items,\
+    \ either at risk of, or actually being lost, damaged or stolen. We found that\
+    \ the majority of cases occurred in (semi-) public spaces during afternoon and\
+    \ evening times, when users left their items. From these results, we derived a\
+    \ model of incidents involving personal items in public space as well as a set\
+    \ of properties to describe situations where personal items may be at risk. We\
+    \ discuss reoccurring properties of the scenarios, potential multimedia-based\
+    \ protection mechanisms for securing personal items in public space as well as\
+    \ future\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 18th International Conference on Mobile and Ubiquitous
+      Multimedia, pages 1-8
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=4345603535826439094&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'Securing personal items in public space: stories of attacks and threats'
+  type:
+  year: 2019
+- authors: Heiko Drewes, Mohamed Khamis, Florian Alt
+  award:
+  description: In this paper we introduce a novel approach for smooth pursuits eye
+    movement detection and demonstrate that it allows up to 160 targets to be distinguished.
+    With this work we advance the well-established smooth pursuits technique, which
+    allows gaze interaction without calibration. The approach is valuable for researchers
+    and practitioners, since it enables novel user interfaces and applications to
+    be created that employ a large number of targets, for example, a pursuits-based
+    keyboard or a smart home where many different objects can be controlled using
+    gaze. We present findings from two studies. In particular, we compare our novel
+    detection algorithm based on linear regression with the correlation method. We
+    quantify its accuracy for around 20 targets on a single circle and up to 160 targets
+    on multiple circles. Finally, we implemented a pursuits-based keyboard app with
+    108 targets as proof-of-concept.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 18th International Conference on Mobile and Ubiquitous
+      Multimedia, pages 1-10
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=7756947420903455285&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'DialPlates: enabling pursuits-based user interfaces with large target numbers'
+  type:
+  year: 2019
+- authors: "Christian Tiefenau, Maximilian H\xE4ring, Mohamed Khamis, Emanuel von\
+    \ Zezschwitz"
+  award:
+  description: Nowadays, most mobile devices support biometric authentication schemes
+    like fingerprint or face unlock. However, these probabilistic mechanisms can only
+    be activated in combination with a second alternative factor, usually knowledge-based
+    authentication. In this paper, we show that this aspect can be exploited in a
+    bypass attack. In this bypass attack, the attacker forces the user to "bypass"
+    the biometric authentication by, for example, resetting the phone. This forces
+    the user to enter an easy-to-observe passcode instead. We present the threat model
+    and provide preliminary results of an online survey. Based on our results, we
+    discuss potential countermeasures. We conclude that better feedback design and
+    security-optimized fallback mechanisms can help further improve the overall security
+    of mobile unlock mechanisms while preserving usability.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: arXiv preprint arXiv:1911.07692
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=260425644310645545&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: '" Please enter your PIN"--On the Risk of Bypass Attacks on Biometric Authentication
+    on Mobile Devices'
+  type: journal
+  year: 2019
+- authors: Carmelo Ardito, Giuseppe Desolda, Francesco Di Nocera, Mohamed Khamis,
+    Andrea Marrella
+  award:
+  description: This paper describes the first edition of the Human-Centered Cybersecurity
+    workshop, held in conjunction with CHItaly 2019. Cyber attacks have been increasing
+    in the recent years. Although users have been identified as one of the major security
+    weaknesses in today's technologies, many cyber-attack preventions focus on systems
+    and technology without addressing user-related issues. The workshop aims at attracting
+    researchers and practitioners whose research addresses human related topics of
+    cybersecurity. This paper also reports a brief description of the accepted contributions.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 'Proceedings of the 13th Biannual Conference of the Italian SIGCHI Chapter:
+      Designing the next interaction, pages 25'
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=16281068687947116327&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: ACM
+  title: 'Human-centered cybersecurity: international workshop at CHITALY 2019'
+  type: conference
+  year: 2019
+- authors: Mennatallah Saleh, Mohamed Khamis, Christian Sturm
+  award:
+  description:
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: IFIP Conference on Human-Computer Interaction, pages 67-87
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=3887273129602046564&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: Springer, Cham
+  title: What About My Privacy, Habibi?
+  type: conference
+  year: 2019
+- authors: Yasmeen Abdrabou, Mariam Mostafa, Mohamed Khamis, Amr Elmougy
+  award:
+  description: In this paper, we propose a calibration-free gaze-based text entry
+    system that uses smooth pursuit eye movements. We report on our implementation,
+    which improves over prior work on smooth pursuit text entry by 1) eliminating
+    the need of calibration using motion correlation, 2) increasing input rate from
+    3.34 to 3.41 words per minute, 3) featuring text suggestions that were trained
+    on 10,000 lexicon sentences recommended in the literature. We report on a user
+    study (N= 26) which shows that users are able to eye type at 3.41 words per minutes
+    without calibration and without user training. Qualitative feedback also indicates
+    that users positively perceive the system. Our work is of particular benefit for
+    disabled users and for situations when voice and tactile input are not feasible
+    (eg, in noisy environments or when the hands are occupied).
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications,
+      pages 1-5
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=12777873134782990237&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Calibration-free text entry using smooth pursuit eye movements
+  type:
+  year: 2019
+- authors: "Ville M\xE4kel\xE4, Vito Gentile, Mohamed Khamis, Salvatore Sorce"
+  award:
+  description: Interactive displays are common in public and semi-public areas, such
+    as museums, shopping malls, train stations, and even on streets. Especially with
+    the emergence of new ways of interaction, interactive displays could be introduced
+    to popular tourist attractions to support tourism. The aim of this tutorial is
+    to prepare its participants for designing such interactive public displays. The
+    tutorial will first introduce participants to state of the art in interactive
+    public displays. This will be followed by a city tour where a number of local
+    attractions are visited. Finally, the participants will brainstorm and create
+    concepts for novel interactive public displays that aim to improve the experience
+    of visiting tourist attractions.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 8th ACM International Symposium on Pervasive Displays,
+      pages 1-2
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=13385062293715220318&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Supporting tourism with public interactive displays
+  type:
+  year: 2019
+- authors: Shaimaa Lazem, Ebtisam Alabdulqader, Mohamed Khamis
+  award:
+  description: 'The Arab world consists of 22 countries stretched across two continents
+    (Asia and Africa), making it one of the world''s most influential territories.
+    Besides sharing the same official language, Arab countries share a strong history
+    dominated by the early colonialism era. Cultural values vary from conservative
+    (eg, Saudi Arabia) to modern and more secular (eg, Lebanon); the Arab countries
+    also include non-Arab ethnic groups. The ArabHCI initiative (https://arabhci.
+    org) is a grassroots community of Arab and non-Arab HCI researchers aimed primarily
+    at promoting and recognizing HCI research and education in the Arab world. The
+    initiative was inaugurated at a SIG meeting at CHI 2017 [1] and has grown through
+    a series of following events hosted at DIS 2017 [2], CHI 2018 [3], and CHI 2019
+    [4]. To achieve the overarching goals of promoting and recognizing HCI research
+    and education in the Arab world, the community aims to tackle three intertwined
+    challenges: Arab representation inside and by the global HCI community, capacity
+    building of local Arab HCI researchers, and fostering collaboration with international
+    researchers interested in the Arab context.'
+  highlight: 0
+  image:
+  issue: 3 May - June 2019
+  link:
+    DOI:
+    bibtex:
+    display: ACM Interactions
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=15399594716388796752&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: ACM
+  title: 'Special topic: HCI in the Arab world-introduction'
+  type: journal
+  volume: '27'
+  year: 2019
+- authors: "Anke M Brock, Jessica Cauchard, Markus Funk, J\xE9r\xE9mie Garcia, Mohamed\
+    \ Khamis, Matja\u017E Kljun"
+  award:
+  description: "Commercial drones have recently been developed to encompass use cases\
+    \ beyond aerial photography and videography. Researchers have explored wider applications\
+    \ of drones including using drones as social companions, as key components in\
+    \ virtual environments, as assistive tools for people with disabilities, and even\
+    \ as sport companions. However the uptake of research in Human-Drone Interaction\
+    \ (HDI) also brought forth a plethora of challenges that are unique to this platform.\
+    \ While drones were initially considered as flying robots, recent works have shown\
+    \ that traditional Human-Robot Interaction (HRI) methodologies cannot simply be\
+    \ applied to HDI. For example, how do we deal with privacy and safety concerns\
+    \ associated with drones in public space? What is the appropriate methodology\
+    \ to evaluate HDI applications? How do the size, altitude, and speed of drones\
+    \ influence their perception? The aim of\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing
+      Systems, pages 1-7
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=1448709332214872297&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'iHDI: International Workshop on Human-Drone Interaction'
+  type:
+  year: 2019
+- authors: Yasmeen Abdrabou, Mohamed Khamis, Rana Mohamed Eisa, Sherif Ismail, Amr
+    Elmougy
+  award:
+  description: "Eye-gaze and mid-air gestures are promising for resisting various\
+    \ types of side-channel attacks during authentication. However, to date, a comparison\
+    \ of the different authentication modalities is missing. We investigate multiple\
+    \ authentication mechanisms that leverage gestures, eye gaze, and a multimodal\
+    \ combination of them and study their resilience to shoulder surfing. To this\
+    \ end, we report on our implementation of three schemes and results from usability\
+    \ and security evaluations where we also experimented with fixed and randomized\
+    \ layouts. We found that the gaze-based approach outperforms the other schemes\
+    \ in terms of input time, error rate, perceived workload, and resistance to observation\
+    \ attacks, and that randomizing the layout does not improve observation resistance\
+    \ enough to warrant the reduced usability. Our work further underlines the significance\
+    \ of replicating previous eye tracking studies using\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications,
+      pages 29
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=504326966321891480&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: ACM
+  title: 'Just gaze and wave: exploring the use of gaze and gestures for shoulder-surfing
+    resilient authentication'
+  type: conference
+  year: 2019
+- authors: Florian Mathis, Mohamed Khamis
+  award:
+  description: "Privacy, Security and Safety Concerns of Using HMDs in Public and\
+    \ Semi-Public Spaces - \nEnlighten: Publications Skip to main content Accessibility\
+    \ information Site navigation Study \nResearch About us Student life Alumni Support\
+    \ us Contact Site tools AZ Lists Subjects AZ Staff \nAZ Academic units AZ University\
+    \ of Glasgow logo Home Enlighten Publications Enlighten: \nPublications About\
+    \ Latest Additions Search Browse Browse by Author Browse by Year Browse \nby Journal\
+    \ Browse by Research Funder Name Browse by Colleges/Schools Open Access \nORCID\
+    \ My Publications Login Privacy, Security and Safety Concerns of Using HMDs in\
+    \ Public \nand Semi-Public Spaces Mathis, F. and Khamis, M. (2019) Privacy, Security\
+    \ and Safety \nConcerns of Using HMDs in Public and Semi-Public Spaces. 1st Workshop\
+    \ on Challenges \nUsing Head-Mounted Displays in Shared and Social Spaces, Glasgow,\
+    \ UK, 05 May 2019. [img] \u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=797706310020905481&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Privacy, Security and Safety Concerns of Using HMDs in Public and Semi-Public
+    Spaces
+  type:
+  year: 2019
+- authors: Yasmeen Abdrabou, Mohamed Khamis, Rana Mohamed Eisa, Sherif Ismael, Amr
+    Elmougy
+  award:
+  description: Most of the already existing authentication schemes are subject to
+    multiple types of side-channel attacks such as shoulder surfing, smudge attacks,
+    and thermal attacks. Meanwhile, motion sensors and eye trackers are becoming more
+    accurate. We propose a novel authentication technique that leverages a combination
+    of mid-air gestures and gaze input for shoulder surfing resilient authentication.
+    The aim is to complicate shoulder surfing attacks by dividing the attacker's attention
+    onto 1) the user's eyes, 2) hand-gestures, and 3) the screen. We report on the
+    concept and implementation of the approach using both random and fixed layouts.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 17th International Conference on Mobile and Ubiquitous
+      Multimedia, pages 469-473
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=5351311767714030187&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: ACM
+  title: 'eNGAGE: Resisting Shoulder surfing using Novel Gaze Gestures Authentication'
+  type: conference
+  year: 2018
+- authors: Ludwig Trotter, Sarah Prange, Mohamed Khamis, Nigel Davies, Florian Alt
+  award:
+  description: Users often need to authenticate at situated displays in order to,
+    for example, make purchases, access sensitive information, or confirm an identity.
+    However, the exposure of interactions in public spaces introduces a large attack
+    surface (eg, observation, smudge or thermal attacks). A plethora of authentication
+    models and input modalities that aim at disguising users' input has been presented
+    in the past. However, a comprehensive analysis on the requirements for secure
+    and usable authentication on public displays is still missing. This work presents
+    13 design considerations suitable to inform practitioners and researchers during
+    the development process of authentication systems for situated displays in public
+    spaces. It draws on a comprehensive analysis of prior literature and subsequent
+    discussion with five experts in the fields of pervasive displays, human-computer-interaction
+    and usable security.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 17th International Conference on Mobile and Ubiquitous
+      Multimedia, pages 483-490
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=5535001966288611315&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: ACM
+  title: Design Considerations for Secure and Usable Authentication on Situated Displays
+  type: conference
+  year: 2018
+- authors: Sylvia Rothe, Felix Althammer, Mohamed Khamis
+  award:
+  description: In this work, we show how the use of flickering in Cinematic Virtual
+    Reality (CVR) content can not only guide the user's attention, but also significantly
+    improve recall of details. The findings are particularly useful for practitioners
+    who generate educational and corporate training content, as well as for directors
+    of CVR videos who want to draw the user's attention to certain details in movies
+    or virtual tours. We report on a between-subjects user study, in which we experimented
+    with flickering methods to increase user's recall of certain details in CVR videos.
+    Participants had to report details of objects on which the method was applied.
+    In our experiments, the intensive flicker improved the recall of details significantly.
+    We discuss how the studied methods can improve recall of details in different
+    use cases.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 17th International Conference on Mobile and Ubiquitous
+      Multimedia, pages 115-119
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=6679847937956031616&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: ACM
+  title: 'GazeRecall: Using Gaze Direction to Increase Recall of Details in Cinematic
+    Virtual Reality'
+  type: conference
+  year: 2018
+- authors: "Mohamed Khamis, Ludwig Trotter, Ville M\xE4kel\xE4, Emanuel von Zezschwitz,\
+    \ Jens Le, Andreas Bulling, Florian Alt"
+  award:
+  description: "Secure authentication on situated displays (e.g., to access sensitive\
+    \ information or to make purchases) is becoming increasingly important. A promising\
+    \ approach to resist shoulder surfing attacks is to employ cues that users respond\
+    \ to while authenticating; this overwhelms observers by requiring them to observe\
+    \ both the cue itself as well as users' response to the cue. Although previous\
+    \ work proposed a variety of modalities, such as gaze and mid-air gestures, to\
+    \ further improve security, an understanding of how they compare with regard to\
+    \ usability and security is still missing as of today. In this paper, we rigorously\
+    \ compare modalities for cue-based authentication on situated displays. In particular,\
+    \ we provide the first comparison between touch, mid-air gestures, and calibration-free\
+    \ gaze using a state-of-the-art authentication concept. In two in-depth user studies\
+    \ (N=20, N=17) we found that the choice of touch or\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+      Technologies
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=5930928482603336305&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: Association for Computing Machinery
+  title: 'CueAuth: comparing touch, mid-air gestures, and gaze for cue-based authentication
+    on situated displays'
+  type: journal
+  year: 2018
+- authors: Mohamed Khamis, Florian Alt, Andreas Bulling
+  award:
+  description: "While first-generation mobile gaze interfaces required special-purpose\
+    \ hardware, recent advances in computational gaze estimation and the availability\
+    \ of sensor-rich and powerful devices is finally fulfilling the promise of pervasive\
+    \ eye tracking and eye-based interaction on off-the-shelf mobile devices. This\
+    \ work provides the first holistic view on the past, present, and future of eye\
+    \ tracking on handheld mobile devices. To this end, we discuss how research developed\
+    \ from building hardware prototypes, to accurate gaze estimation on unmodified\
+    \ smartphones and tablets. We then discuss implications by laying out 1) novel\
+    \ opportunities, including pervasive advertising and conducting in-the-wild eye\
+    \ tracking studies on handhelds, and 2) new challenges that require further research,\
+    \ such as visibility of the user's eyes, lighting conditions, and privacy implications.\
+    \ We discuss how these developments shape MobileHCI\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 20th International Conference on Human-Computer Interaction with Mobile
+      Devices and Services (MobileHCI 2018)
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=5638063456544519782&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'The Past, Present, and Future of Gaze-enabled Handheld Mobile Devices: Survey
+    and Lessons Learned .'
+  type: conference
+  year: 2018
+- authors: Mohamed Khamis
+  award:
+  description: "The last decade witnessed an increasing adoption of public interactive\
+    \ displays. Displays can now be seen in many public areas, such as shopping malls,\
+    \ and train stations. There is also a growing trend towards using large public\
+    \ displays especially in airports, urban areas, universities and libraries. Meanwhile,\
+    \ advances in eye tracking and visual computing promise straightforward integration\
+    \ of eye tracking on these displays for both: 1) monitoring the user's visual\
+    \ behavior to evaluate different aspects of the display, such as measuring the\
+    \ visual attention of passersby, and for 2) interaction purposes, such as allowing\
+    \ users to provide input, retrieve content, or transfer data using their eye movements.\
+    \ Gaze is particularly useful for pervasive public displays. In addition to being\
+    \ natural and intuitive, eye gaze can be detected from a distance, bringing interactivity\
+    \ to displays that are physically unreachable. Gaze reflects the user's intention\
+    \ and visual interests, and its subtle nature makes it well-suited for public\
+    \ interactions where social embarrassment and privacy concerns might hinder the\
+    \ experience. On the downside, eye tracking technologies have traditionally been\
+    \ developed for desktop settings, where a user interacts from a stationary position\
+    \ and for a relatively long period of time. Interaction with public displays is\
+    \ fundamentally different and hence poses unique challenges when employing eye\
+    \ tracking. First, users of public displays are dynamic; users could approach\
+    \ the display from different directions, and interact from different positions\
+    \ or even while moving. This means that gaze-enabled displays should not expect\
+    \ users to be stationary at a\_\u2026"
+  highlight: 0
+  image:
+  institution: Ludwig Maximilian University of Munich (LMU)
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=11114310910040747044&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Designing gaze-based interaction for pervasive public displays
+  type:
+  year: 2018
+- authors: Lukas Mecke, Sarah Prange, Daniel Buschek, Mohamed Khamis, Mariam Hassib,
+    Florian Alt
+  award:
+  description: "\"Outsourcing\" Security: Supporting People to Support Older Adults\
+    \ - Enlighten: Publications \nSkip to main content Accessibility information Site\
+    \ navigation Study Research About us \nStudent life Alumni Support us Contact\
+    \ Site tools AZ Lists Subjects AZ Staff AZ Academic units \nAZ University of Glasgow\
+    \ logo Home Enlighten Publications Enlighten: Publications About \nLatest Additions\
+    \ Search Browse Browse by Author Browse by Year Browse by Journal Browse \nby\
+    \ Research Funder Name Browse by Colleges/Schools Open Access ORCID My Publications\
+    \ \nLogin \"Outsourcing\" Security: Supporting People to Support Older Adults\
+    \ Mecke, L., Prange, \nS., Buschek, D., Khamis, M. , Hassib, M. and Alt, F. (2018)\
+    \ \"Outsourcing\" Security: Supporting \nPeople to Support Older Adults. Proceedings\
+    \ of the MobileHCI 2018 Workshop on Mobile \nPrivacy and Security for an Ageing\
+    \ Population, Barcelona, Spain, 3 September 2018. Full text \u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=5468414676349454367&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: '" Outsourcing" Security: Supporting People to Support Older Adults'
+  type:
+  year: 2018
+- authors: Thomas Mattusch, Mahsa Mirzamohammad, Mohamed Khamis, Andreas Bulling,
+    Florian Alt
+  award:
+  description: "The idea behind gaze interaction using Pursuits is to leverage the\
+    \ human's smooth pursuit eye movements performed when following moving targets.\
+    \ However, humans can also anticipate where a moving target would reappear if\
+    \ it temporarily hides from their view. In this work, we investigate how well\
+    \ users can select targets using Pursuits in cases where the target's trajectory\
+    \ is partially invisible (HiddenPursuits): eg, can users select a moving target\
+    \ that temporarily hides behind another object? Although HiddenPursuits was not\
+    \ studied in the context of interaction before, understanding how well users can\
+    \ perform HiddenPursuits presents numerous opportunities, particularly for small\
+    \ interfaces where a target's trajectory can cover area outside of the screen.\
+    \ We found that users can still select targets quickly via Pursuits even if their\
+    \ trajectory is up to 50% hidden, and at the expense of longer selection times\
+    \ when\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 2018 ACM SYMPOSIUM ON EYE TRACKING RESEARCH & APPLICATIONS
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=4887362680783128592&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'Hidden Pursuits: Evaluating Gaze-selection via Pursuits when the Stimulus
+    Trajectory is Partially Hidden .'
+  type: conference
+  year: 2018
+- authors: Mohamed Khamis, Carl Oechsner, Florian Alt, Andreas Bulling
+  award:
+  description: "Gaze-based interaction using smooth pursuit eye movements (Pursuits)\
+    \ is attractive given that it is intuitive and overcomes the Midas touch problem.\
+    \ At the same time, eye tracking is becoming increasingly popular for VR applications.\
+    \ While Pursuits was shown to be effective in several interaction contexts, it\
+    \ was never explored in-depth for VR before. In a user study (N= 26), we investigated\
+    \ how parameters that are specific to VR settings influence the performance of\
+    \ Pursuits. For example, we found that Pursuits is robust against different sizes\
+    \ of virtual 3D targets. However performance improves when the trajectory size\
+    \ (eg, radius) is larger, particularly if the user is walking while interacting.\
+    \ While walking, selecting moving targets via Pursuits is generally feasible albeit\
+    \ less accurate than when stationary. Finally, we discuss the implications of\
+    \ these findings and the potential of smooth pursuits for interaction in VR by\_\
+    \u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: International Conference on Advanced Visual Interfaces (AVI 2018)
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=18343037928355656069&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'VRPursuits: Interaction in Virtual Reality using Smooth Pursuit Eye Movements.'
+  type: conference
+  year: 2018
+- authors: Christian Mai, Mohamed Khamis
+  award:
+  description: "Head-Mounted Displays (HMDs) are becoming ubiquitous; we are starting\
+    \ to see them deployed in public for different purposes. Museums, car companies\
+    \ and travel agencies use HMDs to promote their products. As a result, situations\
+    \ arise where users use them in public without experts supervision. This leads\
+    \ to challenges and opportunities, many of which are experienced in public display\
+    \ installations. For example, similar to public displays, public HMDs struggle\
+    \ to attract the passer-by's attention, but benefit from the honeypot effect that\
+    \ draws attention to them. Also passersby might be hesitant to wear a public HMD,\
+    \ due to the fear that its owner might not approve, or due to the perceived need\
+    \ for a prior permission. In this work, we discuss how public HMDs can benefit\
+    \ from research in public displays. In particular, based on the results of an\
+    \ in-the-wild deployment of a public HMD, we propose an adaptation of the\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 7th ACM International Symposium on Pervasive Displays
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=8497554652212510840&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'Public HMDs: Modeling and Understanding User Behavior around Public Head-Mounted
+    Displays.'
+  type: conference
+  year: 2018
+- authors: Mennatallah Saleh, Mohamed Khamis, Christian Sturm
+  award:
+  description: Similar to research in behavioral psychology, research in privacy and
+    usable security has focused mainly on Western, Educated, Industrialized, Rich,
+    and Democratic (WEIRD) societies. This excludes a large portion of the population
+    affected by privacy implications of technology. In this work, we report on a survey
+    (N= 117) in which we studied technology-related privacy concerns of users from
+    different countries, including developing countries such as Egypt, and Saudi Arabia,
+    and developed countries such as Germany. By comparing results from those countries,
+    and relating our findings to previous work, we brought forth multiple novel insights
+    that are specific to privacy of users from under-investigated countries. We discuss
+    the implications of our findings on the design of privacy protection mechanisms.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 2018 CHI Conference Extended Abstracts on Human Factors in Computing
+      Systems (CHI EA 2018)
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=657710264556350001&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'Privacy Invasion Experiences and Perceptions: A comparison between Germany
+    and the Arab World.'
+  type: conference
+  year: 2018
+- authors: Ebtisam Alabdulqader, Shaimaa Lazem, Mohamed Khamis, Susan Dray
+  award:
+  description: "ArabHCI is an initiative inaugurated in CHI17 SIG Meeting that brought\
+    \ together 45+ HCI Arab and non-Arab researchers/practitioners who are conducting/interested\
+    \ in HCI within Arab communities. The goal of this workshop is to start dialogs\
+    \ that leverage our\" insider\" understanding of HCI research in the Arab context\
+    \ and assert our culture identity in design in order to explore challenges and\
+    \ opportunities for future research. In this workshop, we focus on one of the\
+    \ themes that derived our community discussions in most of the held events. We\
+    \ explore the extent to which participatory approaches in the Arab context are\
+    \ culturally and methodologically challenged. Our goal is to bring researchers/practitioners\
+    \ with success and failure stories while designing with Arab communities to discuss\
+    \ methods, share experiences and learned lessons. We plan to share the results\
+    \ of our discussions and research agenda with the\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: 2018 CHI Conference Extended Abstracts on Human Factors in Computing
+      Systems (CHI EA 2018)  Download (pdf) DOI (link) Watch the Video BibTeX
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=13017323012704363600&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Exploring Participatory Design Methods to Engage with Arab Communities.
+  type: conference
+  year: 2018
+- authors: Mohamed Khamis, Anita Baier, Niels Henze, Florian Alt, Andreas Bulling
+  award:
+  description: "Commodity mobile devices are now equipped with high-resolution front-facing\
+    \ cameras, allowing applications in biometrics (eg, FaceID in the iPhone X), facial\
+    \ expression analysis, or gaze interaction. However, it is unknown how often users\
+    \ hold devices in a way that allows capturing their face or eyes, and how this\
+    \ impacts detection accuracy. We collected 25,726 in-the-wild photos, taken from\
+    \ the front-facing camera of smartphones as well as associated application usage\
+    \ logs. We found that the full face is visible about 29% of the time, and that\
+    \ in most cases the face is only partially visible. Furthermore, we identified\
+    \ an influence of users' current activity; for example, when watching videos,\
+    \ the eyes but not the entire face are visible 75% of the time in our dataset.\
+    \ We found that a state-of-the-art face detection algorithm performs poorly against\
+    \ photos taken from front-facing cameras. We discuss how these findings\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 2018 CHI Conference on Human Factors in Computing
+      Systems, pages 1-12
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=1735026835340036706&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Understanding face and eye visibility in front-facing cameras of smartphones
+    used in the wild
+  type:
+  year: 2018
+- authors: Christian Mai, Lukas Rambold, Mohamed Khamis
+  award:
+  description: While the eyes are very important in human communication, once a user
+    puts on a head mounted display (HMD), the face is obscured from the outside world's
+    perspective. This leads to communication problems when bystanders approach or
+    collaborate with an HMD user. We introduce transparentHMD, which employs a head-coupled
+    perspective technique to produce an illusion of a transparent HMD to bystanders.
+    We created a self contained system, based on a mobile device mounted on the HMD
+    with the screen facing bystanders. By tracking the relative position of the bystander
+    using the smartphone's camera, we render an adapting perspective view in realtime
+    that creates the illusion of a transparent HMD. By revealing the user's face to
+    bystanders, our easy to implement system allows for opportunities to investigate
+    a plethora of research questions particularly related to collaborative VR systems.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the 16th International Conference on Mobile and Ubiquitous
+      Multimedia, pages 515-520
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=18144247575698130202&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: ACM
+  title: 'TransparentHMD: revealing the HMD user''s face to bystanders'
+  type: conference
+  year: 2017
