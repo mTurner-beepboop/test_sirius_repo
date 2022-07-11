@@ -38,11 +38,11 @@ for d in data:
     #Check if the title is already accounted for in the two lists
     flag = False
     for existing in existing_data:
-        if d['title'] == existing['title']:
+        if lower(d['title']).strip(" .'") == lower(existing['title']).strip(" .'"):
             flag = True
     if not flag:
         for unreviewed in unreviewed_data:
-            if d['title'] == unreviewed['title']:
+            if lower(d['title']).strip(" .'") == lower(unreviewed['title']).strip(" .'"):
                 flag = True
     print(d['title'] + ": " + str(flag)) #Prints each item and if it was found before
 
@@ -102,7 +102,7 @@ for d in data:
         if field_links != None:
             temp_dict['link']['url'] = "https://scholar.google.com" + str(field_links.get("href"))
     
-    temp_dict['title'] = str(title)
+    temp_dict['title'] = str(title).strip(" .")
     temp_dict['highlight'] = 0 #default
     temp_dict['year'] = int(d['year'])
     
