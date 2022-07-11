@@ -2,6 +2,7 @@ import json
 import yaml
 import requests
 from bs4 import BeautifulSoup
+from datetime import date
 
 #Collect data from temp yaml file and reformat, collecting additional information by scraping from google scholar
 #Note: google scholar stops accepting these requests after somewhere around 50 requests
@@ -121,3 +122,8 @@ yaml.add_representer(type(None), represent_none)
 
 with open(r'_data/crawled_publist.yml', 'w') as file:
     outputs = yaml.dump(unreviewed_data, file)
+
+
+#Finally, set a last-updated in file
+with open('_data/last_updated.yml','w') as file:
+    file.write("date: " + date.today())
