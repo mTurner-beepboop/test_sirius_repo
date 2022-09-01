@@ -888,3 +888,86 @@
     A Typology of Perceived Privacy-Sensitive Content in Shoulder Surfing Scenarios'
   type:
   year: 2022
+- authors: Habiba Farzand, Karola Marky, Mohamed Khamis
+  award:
+  description: "Shoulder surfing is a prevailing threat when accessing information\
+    \ on personal devices like smartphones. Adequate mitigation requires studying\
+    \ shoulder surfing occurrences in people\u2019s daily lives. In this paper, we\
+    \ confirm and extend previous research findings on shoulder surfing occurrences\
+    \ using a new method; a one-month diary study (N= 23). Our results provide evidence\
+    \ of shoulder surfing in public and private environments. Content-based shoulder\
+    \ surfing happens more frequently than authentication-based shoulder surfing.\
+    \ Participants experienced shoulder surfing at least twice"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=10866739858643516745&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'Shoulder Surfing through the Social Lens: A Longitudinal Investigation &
+    Insights from an Exploratory Diary Study'
+  type:
+  year: 2022
+- authors: Habiba Farzand, Karola Marky, Mohamed Khamis
+  award:
+  description: "Shoulder surfing is a prevailing threat when accessing smartphone\
+    \ information at different locations. Prior work has proposed numerous mechanisms\
+    \ to combat the threat, however, when and what mechanism to use while maintaining\
+    \ appreciable user experience and usability remains a challenge. Further, the\
+    \ subjective interpretation of sensitive content adds to the challenge of protecting\
+    \ users\u2019 privacy and security. In this poster, we present preliminary findings\
+    \ on what users perceive as sensitive information in the context of shoulder surfing\
+    \ from an online survey with N= 40 participants. We found that the need for the\
+    \ protection mechanism varies with the context of use. Users consider location\
+    \ and relationship with the observer when hiding content from unconsented observations.\
+    \ Based on the findings, we propose a typology of perceived sensitive content\
+    \ considering social aspects in shoulder surfing scenarios. Our typology can be\
+    \ used as a baseline for designing personalized shoulder surfing protection mechanisms."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Proceedings of the Eighteenth USENIX Conference on Usable Privacy and
+      Security. USENIX Association, USA
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=2699190628220948683&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: "I Hate When People Do This; There\u2019sa Lot of Sensitive Content for Me\"\
+    : A Typology of Perceived Privacy-Sensitive Content in Shoulder Surfing Scenarios"
+  type: journal
+  year: 2022
+- authors: Melvin Abraham, Pejman Saeghe, Mark McGill, Mohamed Khamis
+  award:
+  description: Extended-Reality (XR) devices are packed with sensors that allow tracking
+    of users (eg, behaviour, actions, eye-gaze) and their surroundings (eg, people,
+    places, objects). As a consequence, XR devices pose significant risks to privacy,
+    security, and our ability to understand and influence the behaviour of users-risks
+    that will be amplified by ever-increasing adoption. This necessitates addressing
+    these concerns before XR becomes ubiquitous. We conducted three focus groups with
+    thirteen XR experts from industry and academia interested in XR, security, and
+    privacy, to investigate current and emerging issues relating to security, privacy,
+    and influencing behaviour. We identified issues such as virtual threats leading
+    to physical harm, missing opting-out methods, and amplifying bias through perceptual
+    filters. From the results we establish a collection of prescient challenges relating
+    to security, privacy and behavioural manipulation within XR and present recommendations
+    working towards developing future XR devices that better support security and
+    privacy by default.
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=10746037875290342786&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'Implications of XR on Privacy, Security and Behaviour: Insights from Experts'
+  type:
+  year: 2022
