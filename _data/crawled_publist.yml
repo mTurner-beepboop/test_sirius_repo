@@ -971,3 +971,89 @@
   title: 'Implications of XR on Privacy, Security and Behaviour: Insights from Experts'
   type:
   year: 2022
+- authors: Paul Bekaert, Norah Alotaibi, Florian Mathis, Nina Gerber, Aidan Christopher
+    Rafferty, Mohamed Khamis, Karola Marky
+  award:
+  description: "Thermal attacks refer to the possibility of capturing heat traces\
+    \ that result from interacting with user interfaces to reveal sensitive input,\
+    \ such as passwords. The technical feasibility and effectiveness of thermal attacks\
+    \ have already been demonstrated. Yet, several preconditions have to be met for\
+    \ successful thermal attacks. In this paper, we investigate user awareness of\
+    \ thermal attacks and to which extent the attack\u2019s preconditions are met\
+    \ in the users\u2019 daily lives. We present results from an online study with\
+    \ 101 participants showing that users are frequently at risk of thermal attacks\
+    \ based on their behavior, e.g., due to leaving devices unattended, or their choice\
+    \ of authentication method. Further, only 7 of our 101 participants had heard\
+    \ of thermal attacks. Based on our results, we discuss the implications on user\
+    \ security, operators of public spaces, and the development of thermal attack-resistant\
+    \ input methods."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: Nordic Human-Computer Interaction Conference, pages 1-9
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=4854062126177496923&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: "Are Thermal Attacks a Realistic Threat? Investigating the Preconditions\
+    \ of Thermal Attacks in Users\u2019 Daily Lives"
+  type:
+  year: 2022
+- authors: Yufeng Diao, Yichi Zhang, Guodong Zhao, Mohamed Khamis
+  award:
+  description: "Drone Authentication via Acoustic Fingerprint - Enlighten: Publications\
+    \ Skip to main content \nAccessibility information Site navigation Study Research\
+    \ About us Student life Alumni Support \nus Contact Site tools AZ Lists Subjects\
+    \ AZ Staff AZ Academic units AZ University of Glasgow \nlogo Home Enlighten Publications\
+    \ Enlighten: Publications About Latest Additions Search \nBrowse Browse by Author\
+    \ Browse by Year Browse by Journal Browse by Research Funder \nName Browse by\
+    \ Colleges/Schools Open Access ORCID My Publications Login Drone \nAuthentication\
+    \ via Acoustic Fingerprint Diao, Y., Zhang, Y., Zhao, G. and Khamis, M. (2022)\
+    \ \nDrone Authentication via Acoustic Fingerprint. In: Annual Computer Security\
+    \ Applications \nConference (ACSAC 2022), Austin, TX, USA, 5-9 Dec 2022, (Accepted\
+    \ for Publication) [img] Text \n278590.pdf - Accepted Version Restricted to Repository\
+    \ staff only 799kB Item Type: Conference \u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=3472321474711769287&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: Drone Authentication via Acoustic Fingerprint
+  type:
+  year: 2022
+- authors: Norah Alotaibi, John Williamson, Mohamed Khamis
+  award:
+  description: "Thermal cameras can reveal heat traces on user interfaces, such as\
+    \ keyboards. This can be exploited maliciously to infer sensitive input, such\
+    \ as passwords. While previous work considered thermal attacks that rely on visual\
+    \ inspection of simple image processing techniques, we show that attackers can\
+    \ perform more effective AI-driven attacks. We demonstrate this by presenting\
+    \ the development of ThermoSecure, and its evaluation in two user studies (N=21,\
+    \ N=16) which reveal novel insights about thermal attacks. We detail the implementation\
+    \ of ThermoSecure and make a dataset of 1,500 thermal images of keyboards with\
+    \ heat traces resulting from input publicly available. Our first study shows that\
+    \ ThermoSecure successfully attacks 6-symbol, 8-symbol, 12-symbol, and 16-symbol\
+    \ passwords with an average accuracy of 92%, 80%, 71%, and 55% respectively, and\
+    \ even higher accuracy when thermal images are\_\u2026"
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display: ACM Transactions on Privacy and Security
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=7485919961903369289&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  publisher: ACM
+  title: 'ThermoSecure: Investigating the effectiveness of AI-driven thermal attacks
+    on commonly used computer keyboards'
+  type: journal
+  year: 2022
