@@ -1057,3 +1057,29 @@
     on commonly used computer keyboards'
   type: journal
   year: 2022
+- authors: Daniel Kirkwood, Cagdas Tombul, Calum Firth, Finn MacDonald, Konstantinos
+    Priftis, Florian Mathis, Mohamed Khamis, Karola Marky
+  award:
+  description: "Randomizing the layout of the keypad has been proposed to improve\
+    \ the security of PIN entry. However, there has been no empirical quantification\
+    \ of its impact on usability and security. We present the first usability (N=\
+    \ 17) and security (N= 24) evaluations to compare PIN entry with the standard\
+    \ vs randomized layout. Our results show that randomizing the layout increases\
+    \ resistance to shoulder surfing and thermal attacks significantly, and has a\
+    \ very minor impact on entry accuracy, but it increases entry time (from\u2248\
+    \ 1.4 seconds to\u2248 2 seconds). We discuss how this simple approach can improve\
+    \ security with little impact on usability."
+  highlight: 0
+  image:
+  link:
+    DOI:
+    bibtex:
+    display:
+    talk:
+    url: https://scholar.google.com/scholar?oi=bibs&cluster=3559010319519506666&btnI=1&hl=en&oe=ASCII
+    video:
+  news2:
+  title: 'PIN Scrambler: Assessing the Impact of Randomized Layouts on the Usability
+    and Security of PINs'
+  type:
+  year: 2022
